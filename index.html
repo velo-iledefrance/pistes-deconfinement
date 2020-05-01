@@ -4,25 +4,25 @@
         <meta http-equiv="content-type" content="text/html; charset=UTF-8">
         <meta charset="utf-8">
         <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
-        <meta name=description content="CyclOSM is a beautiful open cycle map built on top of OpenStreetMap data. It provides a useful map for each and every cyclist, no matter the practice (commuting, touring, …). CyclOSM is a free and open-source software.">
-        <meta name="twitter:image:src" content="https://www.cyclosm.org/images/social_media.png" />
+        <meta name=description content="Carte Collectif Vélo Ile-de-France">
+        <!--- meta name="twitter:image:src" content="https://www.cyclosm.org/images/social_media.png" />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="CyclOSM">
-        <meta name="twitter:description" content="A bicycle-oriented map for every cyclist, based on OpenStreetMap data.">
+        <meta name="twitter:description" content="A bicycle-oriented map for every cyclist, based on OpenStreetMap data."-->
 
-        <meta property="og:site_name" content="CyclOSM" />
+        <meta property="og:site_name" content="Carte Collectif Vélo Ile-de-France" />
         <meta property=og:image content="https://www.cyclosm.org/images/social_media.png">
         <meta property=og:type content="website">
-        <meta property=og:title content="CyclOSM">
-        <meta property=og:url content="https://cyclosm.org/">
-        <meta property=og:description content="A bicycle-oriented map for every cyclist, based on OpenStreetMap data.">
+        <meta property=og:title content="Carte Collectif Vélo Ile-de-France">
+        <!--meta property=og:url content="https://cyclosm.org/">
+        <meta property=og:description content=""-->
 
-        <link rel="icon" type="image/png" sizes="16x16" href="https://www.cyclosm.org/images/favicon-16.png">
+        <!--link rel="icon" type="image/png" sizes="16x16" href="https://www.cyclosm.org/images/favicon-16.png">
         <link rel="icon" type="image/png" sizes="228x228" href="https://www.cyclosm.org/images/favicon-228.png">
         <link rel="icon" type="image/png" sizes="32x32" href="https://www.cyclosm.org/images/favicon-32.png">
-        <link rel="shortcut icon" href="https://www.cyclosm.org/images/favicon.ico">
+        <link rel="shortcut icon" href="https://www.cyclosm.org/images/favicon.ico"-->
 
-        <title>CyclOSM: OpenStreetMap-based bicycle map</title>
+        <title>Carte Collectif Vélo Ile-de-France</title>
 
         <link rel="stylesheet" href="css/leaflet.css">
         <link rel="stylesheet" href="css/Control.Geocoder.css">
@@ -90,12 +90,12 @@
                 // ==========
                 // Available tiles definition
                 var pianoFR = L.tileLayer('https://{s}.piano.tiles.quaidorsay.fr/fr/{z}/{x}/{y}.png', {
-                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    attribution: 'Tiles <a href="https://github.com/tilery/pianoforte">PianoFr</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
                 });
                 var forteFR = L.tileLayer('https://{s}.forte.tiles.quaidorsay.fr/fr/{z}/{x}/{y}.png', {
-                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    attribution: 'Tiles <a href="https://github.com/tilery/pianoforte">ForteFr</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
                 });
@@ -115,7 +115,12 @@
                     maxZoom: 20,
                 });
                 var cyclosmLite = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm-lite/{z}/{x}/{y}.png', {
-                    attribution: 'Hosting by <a href="https://openstreetmap.fr">OSM-FR</a>',
+                    attribution: '<a href="https://www.cyclosm.org">CyclOSM</a> layer hosted by <a href="https://openstreetmap.fr">OSM-Fr</a>',
+                    minZoom: 0,
+                    maxZoom: 20,
+                });
+                var cyclosmFull = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
+                    attribution: '<a href="https://www.cyclosm.org">CyclOSM</a> hosted by <a href="https://openstreetmap.fr">OSM-Fr</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
                 });
@@ -129,7 +134,7 @@
                 var map = new L.Map('map', {
                     zoomControl: true, layers: [pianoFR, cyclosmLite, geojsonLayer]
                 });
-                map.attributionControl.setPrefix('<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> | <a href="https://github.com/cyclosm/cyclosm-cartocss-style/releases" title="CyclOSM - Open Bicycle render">CyclOSM</a> ');
+                map.attributionControl.setPrefix('<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
                 if (!map.restoreView()) {
                     // Default view on Paris
                     map.setView([48.8589, 2.3469], 12);
@@ -139,13 +144,14 @@
                 var baseMaps = {
                     "PianoFR": pianoFR,
                     "ForteFR": forteFR,
-                    "street": street,
-                    "sunny": sunny,
-                    "light": light,
+                    "Street": street,
+                    "Sunny": sunny,
+                    "Light": light,
+                    "CyclOSM": cyclosmFull,
                 };
                 var overlayMaps = {
-                    "cyclosmLite": cyclosmLite,
-                    "existant": geojsonLayer,
+                    "CyclOSMLite": cyclosmLite,
+                    "Existant": geojsonLayer,
                 };
                 L.control.layers(baseMaps, overlayMaps, { collapsed: true }).addTo(map);
 
@@ -153,11 +159,12 @@
                 var allMapLayers = {
                     'PianoFR': pianoFR,
                     'ForteFR': forteFR,
-                    'street': street,
-                    'sunny': sunny,
-                    'light': light,
-                    'cyclosmLite': cyclosmLite,
-                    "existant": geojsonLayer
+                    'Street': street,
+                    'Sunny': sunny,
+                    'Light': light,
+                    "CyclOSM": cyclosmFull,
+                    'CyclosmLite': cyclosmLite,
+                    "Existant": geojsonLayer
                 };
                 L.hash(map, allMapLayers);
 
