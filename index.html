@@ -114,6 +114,11 @@
                     minZoom: 0,
                     maxZoom: 20,
                 });
+                var cyclosm = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
+                    attribution: 'Hosting by <a href="https://openstreetmap.fr">OSM-FR</a>',
+                    minZoom: 0,
+                    maxZoom: 20,
+                });
                 var cyclosmLite = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm-lite/{z}/{x}/{y}.png', {
                     attribution: 'Hosting by <a href="https://openstreetmap.fr">OSM-FR</a>',
                     minZoom: 0,
@@ -142,6 +147,7 @@
                     "street": street,
                     "sunny": sunny,
                     "light": light,
+                    "cyclosm": cyclosm,
                 };
                 var overlayMaps = {
                     "cyclosmLite": cyclosmLite,
@@ -156,6 +162,7 @@
                     'street': street,
                     'sunny': sunny,
                     'light': light,
+                    'cyclosm': cyclosm,
                     'cyclosmLite': cyclosmLite,
                     "existant": geojsonLayer
                 };
