@@ -129,6 +129,11 @@
                     minZoom: 0,
                     maxZoom: 20,
                 });
+                var osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    minZoom: 0,
+                    maxZoom: 19,
+                });
                 var existantLayer = new L.GeoJSON.AJAX(
                 //TODO à Remplacer par le chemin relatif
                 //  "existant.geojson",
@@ -168,6 +173,7 @@
                     "Sunny": sunny,
                     "Light": light,
                     "Cyclosm": cyclosm,
+                    "OSM": osm
                 };
                 var overlayMaps = {
                     "CyclOSMLite": cyclosmLite,
@@ -186,7 +192,8 @@
                     'Cyclosm': cyclosm,
                     'CyclosmLite': cyclosmLite,
                     "Existant": existantLayer,
-                    "Provisoire": provisoireLayer
+                    "Provisoire": provisoireLayer,
+                    "OSM": osm
                 };
                 L.hash(map, allMapLayers);
 
