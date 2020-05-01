@@ -129,7 +129,8 @@
                     minZoom: 0,
                     maxZoom: 20,
                 });
-                var geojsonLayer = new L.GeoJSON.AJAX(
+                var existantLayer = new L.GeoJSON.AJAX(
+                //TODO à Remplacer par le chemin relatif
                 //  "existant.geojson",
                     "https://raw.githubusercontent.com/Phyks/coronapiste-website/gh-pages/existant.geojson",
                    {
@@ -139,8 +140,19 @@
                         "opacity": 1,
                     }
                 });
+                var provisoireLayer = new L.GeoJSON.AJAX(
+                //  "test_pistes_provisoires.geojson",
+                    "https://raw.githubusercontent.com/Phyks/coronapiste-website/gh-pages/test_pistes_provisoires.geojson",
+                   {
+                    style: {
+                        "color": "#F49F17",
+                        "weight": 3,
+                        "opacity": 1,
+                    }
+                });
+
                 var map = new L.Map('map', {
-                    zoomControl: true, layers: [pianoFR, cyclosmLite, geojsonLayer]
+                    zoomControl: true, layers: [pianoFR, cyclosmLite, existantLayer, provisoireLayer]
                 });
                 map.attributionControl.setPrefix('<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
                 if (!map.restoreView()) {
@@ -159,7 +171,8 @@
                 };
                 var overlayMaps = {
                     "CyclOSMLite": cyclosmLite,
-                    "Existant": geojsonLayer,
+                    "Existant": existantLayer,
+                    "Provisoire": provisoireLayer,
                 };
                 L.control.layers(baseMaps, overlayMaps, { collapsed: true }).addTo(map);
 
@@ -172,7 +185,8 @@
                     'Light': light,
                     'Cyclosm': cyclosm,
                     'CyclosmLite': cyclosmLite,
-                    "Existant": geojsonLayer
+                    "Existant": existantLayer,
+                    "Provisoire": provisoireLayer
                 };
                 L.hash(map, allMapLayers);
 
