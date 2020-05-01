@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+        <meta charset="utf-8">
+        <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+        <meta name=description content="CyclOSM is a beautiful open cycle map built on top of OpenStreetMap data. It provides a useful map for each and every cyclist, no matter the practice (commuting, touring, …). CyclOSM is a free and open-source software.">
+        <meta name="twitter:image:src" content="https://www.cyclosm.org/images/social_media.png" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="CyclOSM">
+        <meta name="twitter:description" content="A bicycle-oriented map for every cyclist, based on OpenStreetMap data.">
+
+        <meta property="og:site_name" content="CyclOSM" />
+        <meta property=og:image content="https://www.cyclosm.org/images/social_media.png">
+        <meta property=og:type content="website">
+        <meta property=og:title content="CyclOSM">
+        <meta property=og:url content="https://cyclosm.org/">
+        <meta property=og:description content="A bicycle-oriented map for every cyclist, based on OpenStreetMap data.">
+
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.cyclosm.org/images/favicon-16.png">
+        <link rel="icon" type="image/png" sizes="228x228" href="https://www.cyclosm.org/images/favicon-228.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.cyclosm.org/images/favicon-32.png">
+        <link rel="shortcut icon" href="https://www.cyclosm.org/images/favicon.ico">
+
+        <title>CyclOSM: OpenStreetMap-based bicycle map</title>
+
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/Control.Geocoder.css">
+        <link rel="stylesheet" href="css/easy-button.css">
+        <link rel="stylesheet" href="css/L.Control.Locate.min.css">
+        <link rel="stylesheet" href="css/fa-all.min.css">
+        <style type="text/css">
+            @font-face {
+                font-family: 'Roboto';
+                font-style: normal;
+                font-weight: 400;
+                src: url('/webfonts/roboto-v20-latin-regular.eot'); /* IE9 Compat Modes */
+                src: local('Roboto'), local('Roboto-Regular'),
+                url('/webfonts/roboto-v20-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+                url('/webfonts/roboto-v20-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+                url('/webfonts/roboto-v20-latin-regular.woff') format('woff'), /* Modern Browsers */
+                url('/webfonts/roboto-v20-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+                url('/webfonts/roboto-v20-latin-regular.svg#Roboto') format('svg'); /* Legacy iOS */
+            }
+
+            html {
+                min-height: 100%;
+                position: relative;
+                font-family: Roboto, sans-serif;
+            }
+
+            body {
+                margin: 0;
+                width: 100%;
+                height: 100%;
+                text-align: justify;
+                font-size: 14px;
+                overflow: hidden;
+            }
+
+            div#map {
+                position: absolute;
+                top: 0;
+                bottom: 0;
+                left: 0;
+                right: 0;
+                right: 0;
+            }
+
+            #mainTitle {
+                margin-top: 0;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="map"></div>
+
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.ajax.min.js"></script>
+        <script src="js/leaflet-fullHash.js"></script>
+        <script src="js/Control.Geocoder.js"></script>
+        <script src="js/easy-button.js"></script>
+        <script src="js/L.Control.Locate.js"></script>
+        <script src="js/leaflet.restoreview.js"></script>
+        <script src="js/tingle.min.js"></script>
+        <script type="text/javascript">
+            document.addEventListener('DOMContentLoaded', function () {
+                // ==========
+                // Handle map
+                // ==========
+                // Available tiles definition
+                var pianoFR = L.tileLayer('https://{s}.piano.tiles.quaidorsay.fr/fr/{z}/{x}/{y}.png', {
+                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    minZoom: 0,
+                    maxZoom: 20,
+                });
+                var forteFR = L.tileLayer('https://{s}.forte.tiles.quaidorsay.fr/fr/{z}/{x}/{y}.png', {
+                    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    minZoom: 0,
+                    maxZoom: 20,
+                });
+                var street = L.tileLayer('https://tile.jawg.io/{z}/{x}/{y}.png?api-key=community', {
+                    attribution: 'Tiles from <a href="https://www.jawg.io/fr/">Jawg.io</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    minZoom: 0,
+                    maxZoom: 20,
+                });
+                var sunny = L.tileLayer('https://tile.jawg.io/sunny/{z}/{x}/{y}.png?api-key=community', {
+                    attribution: 'Tiles from <a href="https://www.jawg.io/fr/">Jawg.io</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    minZoom: 0,
+                    maxZoom: 20,
+                });
+                var light = L.tileLayer('https://tile.jawg.io/light/{z}/{x}/{y}.png?api-key=community', {
+                    attribution: 'Tiles from <a href="https://www.jawg.io/fr/">Jawg.io</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    minZoom: 0,
+                    maxZoom: 20,
+                });
+                var cyclosmLite = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm-lite/{z}/{x}/{y}.png', {
+                    attribution: 'Hosting by <a href="https://openstreetmap.fr">OSM-FR</a>',
+                    minZoom: 0,
+                    maxZoom: 20,
+                });
+                var geojsonLayer = new L.GeoJSON.AJAX("existant.geojson", {
+                    style: {
+                        "color": "#E75221",
+                        "weight": 3,
+                        "opacity": 1,
+                    }
+                });
+                var map = new L.Map('map', {
+                    zoomControl: true, layers: [pianoFR, cyclosmLite, geojsonLayer]
+                });
+                map.attributionControl.setPrefix('<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> | <a href="https://github.com/cyclosm/cyclosm-cartocss-style/releases" title="CyclOSM - Open Bicycle render">CyclOSM</a> ');
+                if (!map.restoreView()) {
+                    // Default view on Paris
+                    map.setView([48.8589, 2.3469], 12);
+                }
+
+                // Set up layers control
+                var baseMaps = {
+                    "PianoFR": pianoFR,
+                    "ForteFR": forteFR,
+                    "street": street,
+                    "sunny": sunny,
+                    "light": light,
+                };
+                var overlayMaps = {
+                    "cyclosmLite": cyclosmLite,
+                    "existant": geojsonLayer,
+                };
+                L.control.layers(baseMaps, overlayMaps, { collapsed: true }).addTo(map);
+
+                // Set up hash plugin
+                var allMapLayers = {
+                    'PianoFR': pianoFR,
+                    'ForteFR': forteFR,
+                    'street': street,
+                    'sunny': sunny,
+                    'light': light,
+                    'cyclosmLite': cyclosmLite,
+                    "existant": geojsonLayer
+                };
+                L.hash(map, allMapLayers);
+
+                // Set up geocoder plugin
+                var geocoder = L.Control.geocoder({
+                    defaultMarkGeocode: false,
+                    position: 'topleft'
+                });
+                geocoder.on('markgeocode', function(e) {
+                    map.fitBounds(e.geocode.bbox);
+                })
+                geocoder.addTo(map);
+                document.querySelector('button.leaflet-control-geocoder-icon').title = 'Search'
+
+                // Set up geolocation plugin
+                L.control.locate().addTo(map);
+
+                // Add a scale
+                L.control.scale().addTo(map);
+
+                // Set up edit
+                L.easyButton('fa-edit', function(btn, map) {
+                    window.open('https://www.openstreetmap.org/edit' + window.location.hash, '_blank');
+                }, 'Edit the map').addTo(map);
+            });
+        </script>
+    </body>
+</html>
