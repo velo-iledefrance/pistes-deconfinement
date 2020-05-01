@@ -129,7 +129,10 @@
                     minZoom: 0,
                     maxZoom: 20,
                 });
-                var geojsonLayer = new L.GeoJSON.AJAX("existant.geojson", {
+                var geojsonLayer = new L.GeoJSON.AJAX(
+                //  "existant.geojson",
+                    "https://raw.githubusercontent.com/Phyks/coronapiste-website/gh-pages/existant.geojson",
+                   {
                     style: {
                         "color": "#E75221",
                         "weight": 3,
@@ -147,12 +150,12 @@
 
                 // Set up layers control
                 var baseMaps = {
-                    "PianoFR": pianoFR,
-                    "ForteFR": forteFR,
-                    "street": street,
-                    "sunny": sunny,
-                    "light": light,
-                    "cyclosm": cyclosm,
+                    "PianoFr": pianoFR,
+                    "ForteFr": forteFR,
+                    "Street": street,
+                    "Sunny": sunny,
+                    "Light": light,
+                    "Cyclosm": cyclosm,
                 };
                 var overlayMaps = {
                     "CyclOSMLite": cyclosmLite,
@@ -162,14 +165,14 @@
 
                 // Set up hash plugin
                 var allMapLayers = {
-                    'PianoFR': pianoFR,
-                    'ForteFR': forteFR,
-                    'street': street,
-                    'sunny': sunny,
-                    'light': light,
-                    'cyclosm': cyclosm,
-                    'cyclosmLite': cyclosmLite,
-                    "existant": geojsonLayer
+                    'PianoFr': pianoFR,
+                    'ForteFr': forteFR,
+                    'Street': street,
+                    'Sunny': sunny,
+                    'Light': light,
+                    'Cyclosm': cyclosm,
+                    'CyclosmLite': cyclosmLite,
+                    "Existant": geojsonLayer
                 };
                 L.hash(map, allMapLayers);
 
