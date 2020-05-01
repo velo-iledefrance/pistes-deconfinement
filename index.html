@@ -90,27 +90,27 @@
                 // ==========
                 // Available tiles definition
                 var pianoFR = L.tileLayer('https://{s}.piano.tiles.quaidorsay.fr/fr/{z}/{x}/{y}.png', {
-                    attribution: 'Tiles <a href="https://github.com/tilery/pianoforte">PianoFr</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    attribution: 'Tiles <a href="https://github.com/tilery/pianoforte">PianoFr</a> | &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
                 });
                 var forteFR = L.tileLayer('https://{s}.forte.tiles.quaidorsay.fr/fr/{z}/{x}/{y}.png', {
-                    attribution: 'Tiles <a href="https://github.com/tilery/pianoforte">ForteFr</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    attribution: 'Tiles <a href="https://github.com/tilery/pianoforte">ForteFr</a> | &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
                 });
                 var street = L.tileLayer('https://tile.jawg.io/{z}/{x}/{y}.png?api-key=community', {
-                    attribution: 'Tiles from <a href="https://www.jawg.io/fr/">Jawg.io</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    attribution: 'Tiles from <a href="https://www.jawg.io">Jawg.io</a> | &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
                 });
                 var sunny = L.tileLayer('https://tile.jawg.io/sunny/{z}/{x}/{y}.png?api-key=community', {
-                    attribution: 'Tiles from <a href="https://www.jawg.io/fr/">Jawg.io</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    attribution: 'Tiles from <a href="https://www.jawg.io">Jawg.io</a> | &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
                 });
                 var light = L.tileLayer('https://tile.jawg.io/light/{z}/{x}/{y}.png?api-key=community', {
-                    attribution: 'Tiles from <a href="https://www.jawg.io/fr/">Jawg.io</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    attribution: 'Tiles from <a href="https://www.jawg.io">Jawg.io</a> | &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
                 });
@@ -125,7 +125,7 @@
                     maxZoom: 20,
                 });
                 var cyclosmFull = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
-                    attribution: '<a href="https://www.cyclosm.org">CyclOSM</a> hosted by <a href="https://openstreetmap.fr">OSM-Fr</a> | Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+                    attribution: '<a href="https://www.cyclosm.org">CyclOSM</a> hosted by <a href="https://openstreetmap.fr">OSM-Fr</a> | &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
                 });
@@ -154,7 +154,7 @@
                 var map = new L.Map('map', {
                     zoomControl: true, layers: [pianoFR, cyclosmLite, existantLayer, provisoireLayer]
                 });
-                map.attributionControl.setPrefix('<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
+                map.attributionControl.setPrefix('Par le <a href="https://velo-iledefrance.fr" title="Collectif Vélo Ile-de-France">CVIdF</a> | <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
                 if (!map.restoreView()) {
                     // Default view on Paris
                     map.setView([48.8589, 2.3469], 12);
