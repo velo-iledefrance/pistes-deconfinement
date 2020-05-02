@@ -5,17 +5,17 @@
         <meta charset="utf-8">
         <meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
         <meta name=description content="Carte Collectif Vélo Ile-de-France">
-        < meta name="twitter:image:src" content="images/social_media.png" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <!--meta name="twitter:title" content="">
-        <meta name="twitter:description" content=""-->
+        <meta name="twitter:image:src" content="images/social_media.png">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:title" content="Carte Collectif Vélo Ile-de-France">
+        <meta name="twitter:description" content="Carte des pistes cyclables temporaires en Ile-de-France">
 
-        <meta property="og:site_name" content="Carte Collectif Vélo Ile-de-France" />
-        <meta property="og:image content="images/social_media.png"/>
-        <meta property="og:type" content="website"/>
-        <meta property="og:title" content="Carte Collectif Vélo Ile-de-France"/>
-        <!--meta property="og:url" content="https://cyclosm.org/"/>
-        <meta property="og:description" content=""/-->
+        <meta property="og:site_name" content="Carte Collectif Vélo Ile-de-France">
+        <meta property="og:image content="images/social_media.png">
+        <meta property="og:type" content="website">
+        <meta property="og:title" content="Carte Collectif Vélo Ile-de-France">
+        <meta property="og:url" content="https://velo-iledefrance.fr/">
+        <meta property="og:description" content="Carte des pistes cyclables temporaires en Ile-de-France">
 
         <link rel="icon" type="image/png" sizes="16x16" href="images/favicon-16.png">
         <link rel="icon" type="image/png" sizes="228x228" href="images/favicon-228.png">
@@ -71,19 +71,20 @@
                 margin-top: 0;
             }
 
-            #logoContainer {
-              position: relative;
-              z-index: 1000;
-              top: -6px;
-              left: 80px;
+            .leaflet-bottom.leaflet-left {
+                background-color: white;
+                padding: 5px;
+                border-right: 2px solid rgba(0,0,0,0.2);
+                border-top: 2px solid rgba(0,0,0,0.2);
+            }
+
+            .leaflet-control-watermark.leaflet-control {
+                margin-bottom: 5px;
+                margin-left: 5px;
             }
         </style>
     </head>
     <body>
-        <div id="logoContainer">
-          <a href="https://velo-iledefrance.fr"><img src="images/logo_cvidf_rvb_64x64.png"></a>
-          <a href="https://www.metropolegrandparis.fr"><img src="images/Logo-MGP_64x64_opt.png"></a>
-        </div>
         <div id="map"></div>
 
         <script src="js/leaflet.js"></script>
@@ -151,9 +152,7 @@
                     maxZoom: 19,
                 });
                 var existantLayer = new L.GeoJSON.AJAX(
-                //TODO à Remplacer par le chemin relatif
-                //  "existant.geojson",
-                    "https://raw.githubusercontent.com/Phyks/coronapiste-website/gh-pages/existant.geojson",
+                   "existant.geojson",
                    {
                     style: {
                         "color": "#E75221",
@@ -162,9 +161,7 @@
                     }
                 });
                 var existantLayerCasing = new L.GeoJSON.AJAX(
-                //TODO à Remplacer par le chemin relatif
-                //  "existant.geojson",
-                    "https://raw.githubusercontent.com/Phyks/coronapiste-website/gh-pages/existant.geojson",
+                   "existant.geojson",
                    {
                     style: {
                         "color": "#000000",
@@ -173,8 +170,7 @@
                     }
                 });
                 var provisoireLayer = new L.GeoJSON.AJAX(
-                //  "test_pistes_provisoires.geojson",
-                    "https://raw.githubusercontent.com/Phyks/coronapiste-website/gh-pages/test_pistes_provisoires.geojson",
+                   "test_pistes_provisoires.geojson",
                    {
                     style: {
                         "color": "#F49F17",
@@ -192,18 +188,52 @@
                     map.setView([48.8589, 2.3469], 12);
                 }
 
+                // Add logos
+                L.Control.Watermark = L.Control.extend({
+                    onAdd: function(map) {
+                        var div = L.DomUtil.create('div');
+                        div.className = 'leaflet-control-watermark';
+
+                        var a1 = L.DomUtil.create('a');
+                        a1.href= "https://velo-iledefrance.fr"
+
+                        var img1 = L.DomUtil.create('img')
+                        img1.src = "images/logo_cvidf_rvb_64x64.png"
+                        a1.appendChild(img1);
+
+                        var a2 = L.DomUtil.create('a');
+                        a2.href= "https://www.metropolegrandparis.fr"
+
+                        var img2 = L.DomUtil.create('img')
+                        img2.src = "images/Logo-MGP_64x64_opt.png"
+                        a2.appendChild(img2);
+
+                        div.appendChild(a1);
+                        div.appendChild(a2);
+                        return div;
+                    },
+
+                    onRemove: function(map) {
+                        // Nothing to do here
+                    }
+                });
+                L.control.watermark = function(opts) {
+                    return new L.Control.Watermark(opts);
+                }
+                L.control.watermark({ position: 'bottomleft' }).addTo(map);
+
                 // Set up layers control
                 var baseMaps = {
-                    "PianoFr": pianoFR,
-                    "ForteFr": forteFR,
-                    "Street": street,
-                    "Sunny": sunny,
-                    "Light": light,
-                    "Cyclosm": cyclosm,
+                    "OSM Piano": pianoFR,
+                    "OSM Forte": forteFR,
+                    "OSM Street": street,
+                    "OSM Sunny": sunny,
+                    "OSM Light": light,
+                    "CyclOSM": cyclosm,
                     "OSM": osm
                 };
                 var overlayMaps = {
-                    "CyclOSMLite": cyclosmLite,
+                    "Pistes cyclables": cyclosmLite,
                     "Existant": existantLayer,
                     "ExistantCasing": existantLayerCasing,
                     "Provisoire": provisoireLayer,
@@ -212,18 +242,13 @@
                 L.control.layers(baseMaps, overlayMaps, { collapsed: true }).addTo(map);
 
                 // Set up hash plugin
-                var allMapLayers = {
-                    'PianoFr': pianoFR,
-                    'ForteFr': forteFR,
-                    'Street': street,
-                    'Sunny': sunny,
-                    'Light': light,
-                    'Cyclosm': cyclosm,
-                    'CyclosmLite': cyclosmLite,
-                    "Existant": existantLayer,
-                    "Provisoire": provisoireLayer,
-                    "OSM": osm
-                };
+                var allMapLayers = {};
+                Object.keys(baseMaps).forEach(function (key) {
+                    allMapLayers[key.replace(' ', '_')] = baseMaps[key];
+                });
+                Object.keys(overlayMaps).forEach(function (key) {
+                    allMapLayers[key.replace(' ', '_')] = overlayMaps[key];
+                });
                 L.hash(map, allMapLayers);
 
                 // Set up geocoder plugin
