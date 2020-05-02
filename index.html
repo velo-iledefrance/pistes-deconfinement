@@ -244,10 +244,10 @@
                 // Set up hash plugin
                 var allMapLayers = {};
                 Object.keys(baseMaps).forEach(function (key) {
-                    allMapLayers[key.replace(' ', '_')] = baseMaps[key];
+                    allMapLayers[key.replace(/ /g, '_')] = baseMaps[key];
                 });
                 Object.keys(overlayMaps).forEach(function (key) {
-                    allMapLayers[key.replace(' ', '_')] = overlayMaps[key];
+                    allMapLayers[key.replace(/ /g, '_')] = overlayMaps[key];
                 });
                 L.hash(map, allMapLayers);
 
