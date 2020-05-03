@@ -88,6 +88,11 @@
                 padding: 7px;
             }
 
+            .leaflet-layer-cyclosm-lite img {
+                filter: hue-rotate(-190deg) brightness(1000);
+                -webkit-filter: hue-rotate(-190deg) brightness(1000);
+            }
+
             @media screen and (max-width: 550px) {
                 .leaflet-control-watermark.leaflet-control {
                     margin-bottom: 20px;
@@ -211,6 +216,11 @@
                     // Default view on Paris
                     map.setView([48.8589, 2.3469], 11);
                 }
+                map.on('layeradd', function(event){
+                    if (event.layer._url && event.layer._url.match(/cyclosm-lite/)) {
+                        event.layer.getContainer().className += ' leaflet-layer-cyclosm-lite';
+                    }
+                });
 
                 // Add logos
                 L.Control.Watermark = L.Control.extend({
