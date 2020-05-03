@@ -31,13 +31,13 @@ L.Control.Legend = L.Control.extend({
         //if (collapsed) {
           //  this._map.on('click', this.collapse, this);
 
-            if (!L.Browser.android) {
+          //  if (!L.Browser.android) {
                 L.DomEvent.on(container, {
                   //  'mouseover': this.expand,
                   //  'mouseout': this.collapse
                   'mouseup' : this.collapse
                 }, this);
-            }
+          //  }
         //}
 
         var link = L.DomUtil.create('a', className + '-toggle', container);
