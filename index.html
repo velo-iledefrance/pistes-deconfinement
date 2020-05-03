@@ -163,6 +163,16 @@
                     minZoom: 0,
                     maxZoom: 19,
                 });*/
+                var projetLayer = new L.GeoJSON.AJAX(
+                   //"https://raw.githubusercontent.com/velo-iledefrance/pistes-deconfinement/gh-pages/carte_de_travail_pistes_temporaires.geojson",
+                   "carte_de_travail_pistes_temporaires.geojson",
+                   {
+                    style: {
+                        "color": "#888888",
+                        "weight": 3,
+                        "opacity": 1,
+                    }
+                });
                 var existantLayer = new L.GeoJSON.AJAX(
                    "existant.geojson",
                    {
@@ -192,7 +202,7 @@
                 });
 
                 var map = new L.Map('map', {
-                    zoomControl: true, layers: [pianoFR, cyclosmLite, existantLayer, provisoireLayer]
+                    zoomControl: true, layers: [pianoFR, cyclosmLite, existantLayer, projetLayer, provisoireLayer]
                 });
                 map.attributionControl.setPrefix('Par le <a href="https://velo-iledefrance.fr" title="Collectif Vélo Ile-de-France">CVIdF</a> | <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
                 if (!map.restoreView()) {
@@ -239,6 +249,7 @@
                     items: [
                         { color: '#F49F17', label: 'Pistes cyclables temporaires' },
                         { color: '#E75221', label: 'Principaux axes cyclables' },
+                        { color: '#888888', label: 'Pistes cyclables temporaires en projet' },
                         { color: '#0000ca', label: 'Pistes cyclables' }
                     ],
                     collapsed: false,
@@ -259,6 +270,7 @@
                     "Pistes cyclables": cyclosmLite,
                     "Principaux axes cyclables": existantLayer,
                     //"ExistantCasing": existantLayerCasing,
+                    "Pistes cyclables temporaires en projet": projetLayer,
                     "Pistes cyclables temporaires": provisoireLayer,
                     //"kosmtik": kosmtik
                 };
