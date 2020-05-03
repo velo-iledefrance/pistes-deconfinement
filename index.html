@@ -88,6 +88,11 @@
                 padding: 7px;
             }
 
+            .leaflet-layer-cyclosm-lite img {
+                filter: hue-rotate(-190deg) brightness(1000);
+                -webkit-filter: hue-rotate(-190deg) brightness(1000);
+            }
+
             @media screen and (max-width: 550px) {
                 .leaflet-control-watermark.leaflet-control {
                     margin-bottom: 20px;
@@ -147,7 +152,6 @@
                     attribution: '<a href="https://www.cyclosm.org">CyclOSM</a> layer hosted by <a href="https://openstreetmap.fr">OSM-Fr</a>',
                     minZoom: 12,
                     maxZoom: 20,
-                    opacity: 0.5
                 });
                 var cyclosmFull = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
                     attribution: '<a href="https://www.cyclosm.org">CyclOSM</a> hosted by <a href="https://openstreetmap.fr">OSM-Fr</a> | &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
@@ -211,6 +215,11 @@
                     // Default view on Paris
                     map.setView([48.8589, 2.3469], 11);
                 }
+                map.on('layeradd', function(event){
+                    if (event.layer._url && event.layer._url.match(/cyclosm-lite/)) {
+                        event.layer.getContainer().className += ' leaflet-layer-cyclosm-lite';
+                    }
+                });
 
                 // Add logos
                 L.Control.Watermark = L.Control.extend({
