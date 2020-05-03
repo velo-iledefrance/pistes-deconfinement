@@ -210,17 +210,16 @@
 
                 var map = new L.Map('map', {
                     zoomControl: true, layers: [pianoFR, cyclosmLite, existantLayer, projetLayer, provisoireLayer]
+                }).on('layeradd', function(event){
+                    if (event.layer._url && event.layer._url.match(/cyclosm-lite/)) {
+                        event.layer.getContainer().className += ' leaflet-layer-cyclosm-lite';
+                    }
                 });
                 map.attributionControl.setPrefix('Par le <a href="https://velo-iledefrance.fr" title="Collectif Vélo Ile-de-France">CVIdF</a> | <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
                 if (!map.restoreView()) {
                     // Default view on Paris
                     map.setView([48.8589, 2.3469], 11);
                 }
-                map.on('layeradd', function(event){
-                    if (event.layer._url && event.layer._url.match(/cyclosm-lite/)) {
-                        event.layer.getContainer().className += ' leaflet-layer-cyclosm-lite';
-                    }
-                });
 
                 // Add logos
                 L.Control.Watermark = L.Control.extend({
