@@ -28,16 +28,18 @@ L.Control.Legend = L.Control.extend({
         L.DomEvent.disableClickPropagation(container);
         L.DomEvent.disableScrollPropagation(container);
 
-        if (collapsed) {
-            this._map.on('click', this.collapse, this);
+        //if (collapsed) {
+          //  this._map.on('click', this.collapse, this);
 
             if (!L.Browser.android) {
                 L.DomEvent.on(container, {
-                    'mouseover': this.expand,
-                    'mouseout': this.collapse
+                  //  'mouseover': this.expand,
+                  //  'mouseout': this.collapse
+                  'mouseup' : this.collapse
                 }, this);
             }
-        }
+        //}
+
         var link = L.DomUtil.create('a', className + '-toggle', container);
         link.href = '#';
         link.title = 'legend';
