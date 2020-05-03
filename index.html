@@ -29,6 +29,7 @@
         <link rel="stylesheet" href="css/easy-button.css">
         <link rel="stylesheet" href="css/L.Control.Locate.min.css">
         <link rel="stylesheet" href="css/fa-all.min.css">
+        <link rel="stylesheet" href="css/leaflet-legend.css">
         <style type="text/css">
             @font-face {
                 font-family: 'Roboto';
@@ -79,8 +80,18 @@
             }
 
             .leaflet-control-watermark.leaflet-control {
-                margin-bottom: 5px;
+                margin-bottom: 0px;
                 margin-left: 5px;
+            }
+
+            .leaflet-legend {
+                padding: 7px;
+            }
+
+            @media screen and (max-width: 550px) {
+                .leaflet-control-watermark.leaflet-control {
+                    margin-bottom: 20px;
+                }
             }
         </style>
     </head>
@@ -95,6 +106,7 @@
         <script src="js/L.Control.Locate.js"></script>
         <script src="js/leaflet.restoreview.js"></script>
         <script src="js/tingle.min.js"></script>
+        <script src="js/leaflet-legend.js"></script>
         <script type="text/javascript">
             document.addEventListener('DOMContentLoaded', function () {
                 // ==========
@@ -111,7 +123,7 @@
                     minZoom: 0,
                     maxZoom: 20,
                 });
-                var street = L.tileLayer('https://tile.jawg.io/{z}/{x}/{y}.png?api-key=community', {
+                /*var street = L.tileLayer('https://tile.jawg.io/{z}/{x}/{y}.png?api-key=community', {
                     attribution: 'Tiles from <a href="https://www.jawg.io">Jawg.io</a> | &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
@@ -125,7 +137,7 @@
                     attribution: 'Tiles from <a href="https://www.jawg.io">Jawg.io</a> | &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 20,
-                });
+                });*/
                 var cyclosm = L.tileLayer('https://{s}.tile-cyclosm.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png', {
                     attribution: 'Hosting by <a href="https://openstreetmap.fr">OSM-FR</a>',
                     minZoom: 0,
@@ -146,11 +158,11 @@
                     minZoom: 0,
                     maxZoom: 19,
                 });
-                var kosmtik = L.tileLayer('http://127.0.0.1:6789/cyclosm-cartocss-style/tile/{z}/{x}/{y}.png', {
+                /*var kosmtik = L.tileLayer('http://127.0.0.1:6789/cyclosm-cartocss-style/tile/{z}/{x}/{y}.png', {
                     attribution: '&copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
                     minZoom: 0,
                     maxZoom: 19,
-                });
+                });*/
                 var existantLayer = new L.GeoJSON.AJAX(
                    "existant.geojson",
                    {
@@ -160,7 +172,7 @@
                         "opacity": 1,
                     }
                 });
-                var existantLayerCasing = new L.GeoJSON.AJAX(
+                /*var existantLayerCasing = new L.GeoJSON.AJAX(
                    "existant.geojson",
                    {
                     style: {
@@ -168,7 +180,7 @@
                         "weight": 4,
                         "opacity": 1,
                     }
-                });
+                });*/
                 var provisoireLayer = new L.GeoJSON.AJAX(
                    "test_pistes_provisoires.geojson",
                    {
@@ -185,7 +197,7 @@
                 map.attributionControl.setPrefix('Par le <a href="https://velo-iledefrance.fr" title="Collectif Vélo Ile-de-France">CVIdF</a> | <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
                 if (!map.restoreView()) {
                     // Default view on Paris
-                    map.setView([48.8589, 2.3469], 12);
+                    map.setView([48.8589, 2.3469], 11);
                 }
 
                 // Add logos
@@ -222,22 +234,33 @@
                 }
                 L.control.watermark({ position: 'bottomleft' }).addTo(map);
 
+                // Legend
+                L.control.legend({
+                    items: [
+                        { color: '#F49F17', label: 'Pistes cyclables temporaires' },
+                        { color: '#E75221', label: 'Principaux axes cyclables' },
+                        { color: '#0000ca', label: 'Pistes cyclables secondaires' }
+                    ],
+                    collapsed: true,
+                    buttonHtml: 'Légende'
+                }).addTo(map);
+
                 // Set up layers control
                 var baseMaps = {
                     "OSM Piano": pianoFR,
                     "OSM Forte": forteFR,
-                    "OSM Street": street,
-                    "OSM Sunny": sunny,
-                    "OSM Light": light,
+                    //"OSM Street": street,
+                    //"OSM Sunny": sunny,
+                    //"OSM Light": light,
                     "CyclOSM": cyclosm,
                     "OSM": osm
                 };
                 var overlayMaps = {
                     "Pistes cyclables": cyclosmLite,
                     "Principaux axes cyclables": existantLayer,
-                    "ExistantCasing": existantLayerCasing,
+                    //"ExistantCasing": existantLayerCasing,
                     "Pistes cyclables temporaires": provisoireLayer,
-                    "kosmtik": kosmtik
+                    //"kosmtik": kosmtik
                 };
                 L.control.layers(baseMaps, overlayMaps, { collapsed: true }).addTo(map);
 
