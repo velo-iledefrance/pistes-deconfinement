@@ -89,10 +89,10 @@
                 padding: 7px;
             }
 
-            .leaflet-layer-cyclosm-lite img {
+          /*  .leaflet-layer-cyclosm-lite img {
                 filter: hue-rotate(-190deg) brightness(12);
                 -webkit-filter: hue-rotate(-190deg) brightness(12);
-            }
+            }*/
 
             @media screen and (max-width: 550px) {
                 .leaflet-control-watermark.leaflet-control {
@@ -174,7 +174,8 @@
                    "carte_de_travail_pistes_temporaires.geojson",
                    {
                     style: {
-                        "color": "#888888",
+                        //"color": "#888888",
+                        "color": "#955619",
                         "weight": 3,
                         "opacity": 1,
                     }
@@ -260,7 +261,8 @@
                     items: [
                         { color: '#E75221', label: 'Itinéraires cyclables existants' },
                         { color: '#F49F17', label: 'Pistes cyclables temporaires' },
-                        { color: '#888888', label: 'Pistes temporaires en projet' },
+                      //  { color: '#888888', label: 'Pistes temporaires en projet' },
+                        { color: '#955619', label: 'Pistes temporaires en projet' },
                         { color: '#ffd800', label: 'Autres aménagements cyclables' }
                     ],
                     collapsed: false,
