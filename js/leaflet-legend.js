@@ -59,9 +59,22 @@ L.Control.Legend = L.Control.extend({
         var list = L.DomUtil.create('div', className + '-list');
         this.options.items.forEach(function (item) {
             var div = L.DomUtil.create('div', className + '-item', list);
-            var colorbox = L.DomUtil.create('div', className + '-color', div);
+
+            var cssname = '-color';
+            if(item.color2 != null)
+            {
+              cssname = '-color2left';
+            }
+
+            var colorbox = L.DomUtil.create('div', className + cssname, div);
             colorbox.innerHTML = '&nbsp;';
             colorbox.style.backgroundColor = item.color;
+            if(item.color2 != null)
+            {
+              var colorbox2 = L.DomUtil.create('div', className + '-color2right', div);
+              colorbox2.innerHTML = '&nbsp;';
+              colorbox2.style.backgroundColor = item.color2;
+            }
             L.DomUtil.create('div', className + '-text', div).innerHTML = item['label'];
         });
 

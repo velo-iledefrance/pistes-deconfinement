@@ -88,6 +88,19 @@
             .leaflet-legend {
                 padding: 7px;
             }
+            .leaflet-legend-color2left {
+                display: inline-block;
+                width: 10px;
+                heigth: 20px;
+                margin-right: 0px;
+            }
+            .leaflet-legend-color2right {
+                display: inline-block;
+                width: 10px;
+                heigth: 20px;
+                margin-left: 0px;
+                margin-right: 4px;
+            }
 
             .leaflet-layer-cyclosm-lite img {
                 filter: hue-rotate(-58deg) brightness(240%) saturate(50%);
@@ -261,8 +274,8 @@
                         { color: '#E75221', label: 'Itinéraires cyclables existants' },
                         { color: '#F49F17', label: 'Pistes cyclables temporaires' },
                         { color: '#555555', label: 'Pistes temporaires en projet' },
-                        { color: '#387ab1', label: 'Autres aménagements cyclables' },
-                        { color: '#65e5e4', label: 'Chemin cyclable partagé' }
+                        { color: '#387ab1', color2: '#65e5e4', label: 'Autres aménagements cyclables' },
+                        //{ color: '#65e5e4', label: 'Chemin cyclable partagé' }
                     ],
                     collapsed: false,
                     buttonHtml: 'Légende'
