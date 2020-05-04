@@ -95,38 +95,6 @@
     {
       "type": "Feature",
       "properties": {
-        "_umap_options": {
-          "color": "DarkOrange",
-          "iconClass": "Circle"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.252852,
-          48.887295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "_umap_options": {
-          "color": "DarkOrange",
-          "iconClass": "Circle"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.225516,
-          48.828046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "92 - Circulaire nord"
       },
       "geometry": {
@@ -921,22 +889,6 @@
             2.242359,
             48.89085
           ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "_umap_options": {
-          "color": "DarkOrange",
-          "iconClass": "Circle"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.439284,
-          48.774337
         ]
       }
     },
