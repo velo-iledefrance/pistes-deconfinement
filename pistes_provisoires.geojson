@@ -1,1 +1,108 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"_umap_options":{"color":"DarkOrange","opacity":"1"}},"geometry":{"type":"LineString","coordinates":[[2.315905,48.900799],[2.313201,48.902985]]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[2.360526,48.815755],[2.363176,48.807128]]}},{"type":"Feature","properties":{},"geometry":{"type":"MultiLineString","coordinates":[[[2.344337,48.85382],[2.342684,48.850301],[2.340855,48.847346]]]}},{"type":"Feature","properties":{},"geometry":{"type":"LineString","coordinates":[[2.346901,48.85323],[2.345527,48.85083],[2.343344,48.846781]]}}],"_umap_options":{"displayOnLoad":true,"browsable":true,"name":"Calque 2","id":1274314,"remoteData":{}}}
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32562005252,
+                        48.81971840939
+                    ],
+                    [
+                        2.32555567682,
+                        48.81750373783
+                    ],
+                    [
+                        2.32593654513,
+                        48.81302464525
+                    ],
+                    [
+                        2.32675194472,
+                        48.81038750860
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.31590500000,
+                        48.90079900000
+                    ],
+                    [
+                        2.31320100000,
+                        48.90298500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.36052600000,
+                        48.81575500000
+                    ],
+                    [
+                        2.36317600000,
+                        48.80712800000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.34433700000,
+                        48.85382000000
+                    ],
+                    [
+                        2.34268400000,
+                        48.85030100000
+                    ],
+                    [
+                        2.34085500000,
+                        48.84734600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.34690100000,
+                        48.85323000000
+                    ],
+                    [
+                        2.34552700000,
+                        48.85083000000
+                    ],
+                    [
+                        2.34334400000,
+                        48.84678100000
+                    ]
+                ]
+            }
+        }
+    ]
+}
