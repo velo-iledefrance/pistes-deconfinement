@@ -191,6 +191,23 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        2.29857265681,
+                        48.87278829139
+                    ],
+                    [
+                        2.29157477483,
+                        48.87501110484
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
                         2.36052600000,
                         48.81575500000
                     ],
