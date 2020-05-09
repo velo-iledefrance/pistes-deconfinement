@@ -30,6 +30,23 @@
         },
         {
             "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.25796400964,
+                        48.88556989062
+                    ],
+                    [
+                        2.27991520822,
+                        48.87861679625
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "name": "94 - D86"
             },
