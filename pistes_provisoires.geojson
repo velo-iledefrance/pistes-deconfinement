@@ -31,6 +31,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "92 - D920 nord"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32657497421,
+                        48.80934989240
+                    ],
+                    [
+                        2.32601200000,
+                        48.80668000000
+                    ],
+                    [
+                        2.31865906879,
+                        48.78799825394
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "92 - D906 nord"
             },
             "geometry": {

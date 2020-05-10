@@ -1224,6 +1224,23 @@
         },
         {
             "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32657760113,
+                        48.80935063464
+                    ],
+                    [
+                        2.32674926251,
+                        48.81039104135
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "stroke": "#555555",
                 "stroke-opacity": "1",
