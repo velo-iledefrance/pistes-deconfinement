@@ -1382,25 +1382,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Pantin - D115 sud"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.40660633337,
-                        48.89833742121
-                    ],
-                    [
-                        2.41109100000,
-                        48.90054200000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "92 - D907 Boulogne"
             },
             "geometry": {
