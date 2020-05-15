@@ -952,19 +952,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Malakoff - Victor-Hugo"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.30828759909,
-                    48.82355059975
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - D410"
             },
             "geometry": {
@@ -3463,19 +3450,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Malakoff - Guy-Môquet sud"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.29683994174,
-                    48.81471318432
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Paris - Avenue de Nogent"
             },
             "geometry": {
@@ -5932,19 +5906,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Malakoff - Victor-Hugo"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.30440376043,
-                    48.82154448228
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - D86"
             },
             "geometry": {
@@ -6567,19 +6528,6 @@
                         2.25409333950,
                         48.83842138260
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Malakoff - Guy-Môquet sud"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.29305266261,
-                    48.81298931956
                 ]
             }
         },
