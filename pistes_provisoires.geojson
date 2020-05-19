@@ -204,6 +204,27 @@
         },
         {
             "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.26819663972,
+                        48.90338917239
+                    ],
+                    [
+                        2.27003663510,
+                        48.90306299815
+                    ],
+                    [
+                        2.27456688613,
+                        48.90269979622
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "name": "92 - D906 nord"
             },
