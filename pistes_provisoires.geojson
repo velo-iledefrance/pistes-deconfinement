@@ -934,6 +934,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "93 - D40"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.44171100000,
+                        48.89945600000
+                    ],
+                    [
+                        2.44488713980,
+                        48.89190833359
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Paris - Sud-nord Leclerc Denfert Saint-Michel"
             },
             "geometry": {
