@@ -293,6 +293,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "94 - D86 Nogent"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.49596706746,
+                        48.84923754950
+                    ],
+                    [
+                        2.49472782097,
+                        48.84850742552
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "OBJECTID": "225",
                 "STATUT": "Réalisé"
             },
@@ -430,6 +449,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "94 - N186"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.49222274303,
+                        48.85613170984
+                    ],
+                    [
+                        2.49341400000,
+                        48.85393700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Levallois - Danton"
             },
             "geometry": {
@@ -506,6 +544,27 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        2.49335999966,
+                        48.85392923489
+                    ],
+                    [
+                        2.49046321392,
+                        48.85263029398
+                    ],
+                    [
+                        2.49589202642,
+                        48.84925569978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
                         2.46449410379,
                         48.82722355387
                     ],
@@ -562,6 +621,25 @@
                     [
                         2.27976500452,
                         48.87865560362
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - N186"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.49341400000,
+                        48.85393700000
+                    ],
+                    [
+                        2.49597275463,
+                        48.84923048947
                     ]
                 ]
             }
@@ -1095,6 +1173,25 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "94 - N34"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.51099828836,
+                        48.85232625173
+                    ],
+                    [
+                        2.49597779630,
+                        48.84923401949
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
@@ -1525,6 +1622,25 @@
                     [
                         2.32675194472,
                         48.81038750860
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - D86 Nogent"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.49472782097,
+                        48.84850742552
+                    ],
+                    [
+                        2.48672957897,
+                        48.84384743974
                     ]
                 ]
             }

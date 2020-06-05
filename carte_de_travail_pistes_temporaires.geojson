@@ -211,25 +211,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - N34"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.51089100000,
-                        48.85217800000
-                    ],
-                    [
-                        2.49597779630,
-                        48.84923401949
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -4275,25 +4256,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - D86 Nogent"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49596706746,
-                        48.84923754950
-                    ],
-                    [
-                        2.49472782097,
-                        48.84850742552
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "187",
                 "STATUT": "A venir"
             },
@@ -5556,25 +5518,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - N186"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49341400000,
-                        48.85393700000
-                    ],
-                    [
-                        2.49597275463,
-                        48.84923048947
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "190",
                 "STATUT": "A venir"
             },
@@ -6377,8 +6320,8 @@
                         48.86093200000
                     ],
                     [
-                        2.49341400000,
-                        48.85393700000
+                        2.49222274303,
+                        48.85613170984
                     ]
                 ]
             }
@@ -6486,8 +6429,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.49472782097,
-                        48.84850742552
+                        2.48672957897,
+                        48.84384743974
                     ],
                     [
                         2.48473400000,
