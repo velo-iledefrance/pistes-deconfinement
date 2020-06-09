@@ -6,32 +6,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08264014100,
-                    49.03466115025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13615773008,
-                    49.04729914711
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "8",
                 "STATUT": "A venir"
             },
@@ -52,32 +26,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.11971845282,
-                    49.03230055871
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13743967109,
-                    49.04241423125
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "5",
                 "STATUT": "A venir"
             },
@@ -92,58 +40,6 @@
                         2.31809399970,
                         48.83751400140
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12971308189,
-                    49.05441343630
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10224897292,
-                    49.02520003286
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06284149828,
-                    49.04656359075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12333229650,
-                    49.03533581187
                 ]
             }
         },
@@ -221,32 +117,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07674660650,
-                    49.03892451400
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10238844738,
-                    49.02563621252
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "190",
                 "STATUT": "A venir"
             },
@@ -269,19 +139,6 @@
                         2.25183880026,
                         48.83864600589
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08045325184,
-                    49.04085114014
                 ]
             }
         },
@@ -311,19 +168,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13802457707,
-                    49.05296809671
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Shape_Leng": "269.561492923",
                 "objectid": "224",
                 "statut": "projet",
@@ -340,58 +184,6 @@
                         2.08193102333,
                         49.04172347777
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06995621437,
-                    49.03012536742
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06858827695,
-                    49.04571300330
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10124046175,
-                    49.03008924761
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13667313308,
-                    49.04659320616
                 ]
             }
         },
@@ -415,19 +207,6 @@
                         2.38772413245,
                         48.95131044954
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12704981083,
-                    49.03303546745
                 ]
             }
         },
@@ -464,32 +243,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07731995801,
-                    49.03888006505
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02524650689,
-                    49.05505350776
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Paris - Sud-nord Leclerc Denfert Saint-Michel"
             },
             "geometry": {
@@ -507,19 +260,6 @@
                         2.34648352629,
                         48.85619568399
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13375357315,
-                    49.05011189264
                 ]
             }
         },
@@ -547,45 +287,6 @@
                         2.32948775768,
                         48.91815649049
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.11938630493,
-                    49.03189236643
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07148940318,
-                    49.03689568572
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08181581406,
-                    49.04137157751
                 ]
             }
         },
@@ -710,19 +411,6 @@
                         2.29613040500,
                         48.87384760170
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13898084639,
-                    49.04343141769
                 ]
             }
         },
@@ -976,45 +664,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12967490472,
-                    49.05445373387
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.09386215349,
-                    49.06078851620
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08181456916,
-                    49.03405295082
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "29",
                 "STATUT": "A venir"
             },
@@ -1029,19 +678,6 @@
                         2.31344772894,
                         48.86282311683
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02252465078,
-                    49.04737631748
                 ]
             }
         },
@@ -1092,58 +728,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07703428010,
-                    49.03871251144
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06551344668,
-                    49.04654664007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08138666127,
-                    49.04173025464
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02360556464,
-                    49.04709385515
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93063",
@@ -1172,32 +756,6 @@
                         2.45141206055,
                         48.87708672387
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12061246223,
-                    49.03280797992
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.01103723832,
-                    49.04330454291
                 ]
             }
         },
@@ -1248,19 +806,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10149795480,
-                    49.03181970386
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "92 - D910 Boulogne"
             },
             "geometry": {
@@ -1274,19 +819,6 @@
                         2.25344900000,
                         48.83672700000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13341940036,
-                    49.05045835814
                 ]
             }
         },
@@ -1369,45 +901,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07689825226,
-                    49.03907002495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10218459972,
-                    49.02758490462
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08095750776,
-                    49.04064718374
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "225",
                 "STATUT": "Réalisé"
             },
@@ -1426,19 +919,6 @@
                         2.31472777153,
                         48.85887989696
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12242304331,
-                    49.03307690843
                 ]
             }
         },
@@ -1511,71 +991,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13447423420,
-                    49.04105683715
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06885381542,
-                    49.04550027582
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10121900500,
-                    49.03011738591
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13901436139,
-                    49.04321860977
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12767816834,
-                    49.03268416476
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Montreuil - Résistance Pasteur"
             },
             "geometry": {
@@ -1615,32 +1030,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12567183004,
-                    49.03382598142
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10188419190,
-                    49.02672664484
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "47",
                 "STATUT": "A venir"
             },
@@ -1669,19 +1058,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.01624404284,
-                    49.04032239071
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Paris - Avenue de Nogent"
             },
             "geometry": {
@@ -1695,58 +1071,6 @@
                         2.44936166138,
                         48.84190323473
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13722896383,
-                    49.05280731490
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06284149828,
-                    49.04656359075
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06906302835,
-                    49.04566729377
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03020292292,
-                    49.05792660162
                 ]
             }
         },
@@ -1782,19 +1106,6 @@
                         2.24235900000,
                         48.89085000000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12845631970,
-                    49.04971117496
                 ]
             }
         },
@@ -1918,19 +1229,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.00664400032,
-                    49.04460903568
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "92 - D992"
             },
             "geometry": {
@@ -1954,45 +1252,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07731971793,
-                    49.03892581513
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10259229608,
-                    49.02775374008
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10205585370,
-                    49.02786629758
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "92 - D913 Rueil"
             },
             "geometry": {
@@ -2010,19 +1269,6 @@
                         2.15821000000,
                         48.87012200000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02259529915,
-                    49.04670025746
                 ]
             }
         },
@@ -2100,45 +1346,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13964734233,
-                    49.05323132898
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06855550743,
-                    49.04573208164
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03013854935,
-                    49.05739579120
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "7",
                 "STATUT": "A venir"
             },
@@ -2201,19 +1408,6 @@
                         2.31056200050,
                         48.84495400130
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02282437200,
-                    49.04745321953
                 ]
             }
         },
@@ -2324,19 +1518,6 @@
                         2.10205585370,
                         49.02786629758
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.01575939176,
-                    49.04024398560
                 ]
             }
         },
@@ -2566,32 +1747,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13200693383,
-                    49.05198350609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08071403641,
-                    49.03349980225
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "50",
                 "STATUT": "A venir"
             },
@@ -2606,19 +1761,6 @@
                         2.37248700040,
                         48.84860000110
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.04543343573,
-                    49.04808558547
                 ]
             }
         },
@@ -2687,58 +1829,6 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07710333181,
-                    49.03871818299
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10178763332,
-                    49.02708542762
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08230639959,
-                    49.03438332623
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07870445194,
-                    49.03955002304
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
@@ -2795,32 +1885,6 @@
                         2.22252900000,
                         48.84161700000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12494660004,
-                    49.03340589670
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13713612352,
-                    49.04228690391
                 ]
             }
         },
@@ -2895,45 +1959,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10216314188,
-                    49.02527038414
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06253331404,
-                    49.04653935092
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12326636213,
-                    49.03543514652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93063",
@@ -2968,32 +1993,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08438317321,
-                    49.04352608230
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10245282058,
-                    49.02581209011
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - N403"
             },
             "geometry": {
@@ -3015,19 +2014,6 @@
                         2.54867600000,
                         48.90460700000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08087167626,
-                    49.04115355736
                 ]
             }
         },
@@ -3087,71 +2073,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.14100008132,
-                    49.05341725408
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06950315521,
-                    49.02989738594
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06872238699,
-                    49.04581497128
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10102588519,
-                    49.03024400652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13624273745,
-                    49.04718554010
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Massy - Europe"
             },
             "geometry": {
@@ -3165,19 +2086,6 @@
                         2.28275290489,
                         48.72579341186
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12640230864,
-                    49.03340955965
                 ]
             }
         },
@@ -3207,45 +2115,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07722544508,
-                    49.03876067292
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02487099770,
-                    49.05452618176
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07998839329,
-                    49.03324417525
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "32",
                 "STATUT": "A venir"
             },
@@ -3260,19 +2129,6 @@
                         2.36169946260,
                         48.83980196950
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13357105402,
-                    49.05031279943
                 ]
             }
         },
@@ -3342,45 +2198,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.14030373323,
-                    49.05494128642
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07303435530,
-                    49.03751463269
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03066158054,
-                    49.05771744233
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "26",
                 "STATUT": "A venir"
             },
@@ -3407,19 +2224,6 @@
                         2.30127509860,
                         48.84782975930
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12771710771,
-                    49.04925080713
                 ]
             }
         },
@@ -3525,45 +2329,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13045264330,
-                    49.05360933882
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.09115848754,
-                    49.05876379098
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08167059117,
-                    49.03396427623
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "27",
                 "STATUT": "A venir"
             },
@@ -3614,19 +2379,6 @@
                         2.32685553040,
                         48.84695023240
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.05377962270,
-                    49.04734442027
                 ]
             }
         },
@@ -3706,19 +2458,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07684261203,
-                    49.03875980356
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Shape_Leng": "1302.6829275699999",
                 "objectid": "606",
                 "statut": "projet",
@@ -3773,45 +2512,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06498275260,
-                    49.04659556451
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08156905034,
-                    49.04176541904
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13598682573,
-                    49.04752755137
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - N370"
             },
             "geometry": {
@@ -3829,32 +2529,6 @@
                         2.52822900000,
                         48.91866400000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.11950077468,
-                    49.03207235680
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.01044351219,
-                    49.04363616908
                 ]
             }
         },
@@ -3879,19 +2553,6 @@
                         2.32144348750,
                         48.86405756903
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10179836141,
-                    49.03274821635
                 ]
             }
         },
@@ -3937,32 +2598,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13310567096,
-                    49.05077783281
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12472534742,
-                    49.03439908858
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Plaine Commune - D914"
             },
             "geometry": {
@@ -3984,32 +2619,6 @@
                         2.29966155052,
                         48.95931335393
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07674684847,
-                    49.03887876304
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10239917683,
-                    49.02762711300
                 ]
             }
         },
@@ -4167,19 +2776,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08077511662,
-                    49.04056982025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "38",
                 "STATUT": "A venir"
             },
@@ -4272,84 +2868,6 @@
                         2.14100008132,
                         49.05341725408
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12479214374,
-                    49.03335737007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07074561925,
-                    49.03051797158
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06863387447,
-                    49.04577453565
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10126191922,
-                    49.03048317836
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13645733793,
-                    49.04690976866
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12757049182,
-                    49.03275118258
                 ]
             }
         },
@@ -4492,32 +3010,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08690268685,
-                    49.04549025914
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02968793854,
-                    49.05721475188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - N186 nord"
             },
             "geometry": {
@@ -4629,19 +3121,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02303156432,
-                    49.04752994560
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "21",
                 "STATUT": "A venir"
             },
@@ -4670,58 +3149,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13262800070,
-                    49.05153307172
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06613034976,
-                    49.03331900457
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06880017193,
-                    49.04583079372
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03036117358,
-                    49.05791605595
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - D14"
             },
             "geometry": {
@@ -4735,19 +3162,6 @@
                         2.34416500000,
                         48.90126100000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13131371738,
-                    49.05098109924
                 ]
             }
         },
@@ -4838,45 +3252,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07710139620,
-                    49.03908670941
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10250646420,
-                    49.02792257579
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10209876867,
-                    49.02782408823
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -4909,19 +3284,6 @@
                         2.45758690000,
                         48.86755774169
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02238335498,
-                    49.04689011106
                 ]
             }
         },
@@ -5029,45 +3391,6 @@
                         2.41465263990,
                         48.85417943460
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.14045878021,
-                    49.05462731420
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06826006115,
-                    49.04587557351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02995347758,
-                    49.05746082498
                 ]
             }
         },
@@ -5494,19 +3817,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02302438783,
-                    49.04745443375
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "78 - D113 D321"
             },
             "geometry": {
@@ -5666,19 +3976,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12042240882,
-                    49.03272475811
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Shape_Leng": "537.402602312",
                 "objectid": "681",
                 "statut": "projet",
@@ -5761,19 +4058,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.01548229077,
-                    49.04043055424
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Paris - Nord-sud Saint-Jacques Tombe-Issoire"
             },
             "geometry": {
@@ -5801,32 +4085,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13056219738,
-                    49.05349508315
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08053171223,
-                    49.03343399514
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Malakoff - Guy-Môquet sud"
             },
             "geometry": {
@@ -5840,19 +4098,6 @@
                         2.29683994174,
                         48.81471318432
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.04519949010,
-                    49.04808642383
                 ]
             }
         },
@@ -5971,58 +4216,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07684111864,
-                    49.03904390559
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10178763341,
-                    49.02716281144
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08214595194,
-                    49.03425582609
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13592802257,
-                    49.04760613880
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -6065,84 +4258,6 @@
                         2.07677643757,
                         49.03882414466
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12553021622,
-                    49.03370805063
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13622406368,
-                    49.04190093596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06870897646,
-                    49.04553192160
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10220605738,
-                    49.02538998271
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06204442589,
-                    49.04653848563
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12316853394,
-                    49.03547939183
                 ]
             }
         },
@@ -6198,32 +4313,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07716654705,
-                    49.03907063453
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10243136248,
-                    49.02597389772
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - D931"
             },
             "geometry": {
@@ -6265,19 +4354,6 @@
                         2.36600900000,
                         48.97390700000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08118281297,
-                    49.04143487382
                 ]
             }
         },
@@ -6473,71 +4549,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13569962074,
-                    49.05247259794
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13912114904,
-                    49.04297202362
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13126052904,
-                    49.05276444945
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02985423520,
-                    49.05774732182
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13636832563,
-                    49.04704190056
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "186",
                 "STATUT": "A venir"
             },
@@ -6668,19 +4679,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12567183004,
-                    49.03382598142
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - D19"
             },
             "geometry": {
@@ -6694,45 +4692,6 @@
                         2.48784500000,
                         48.76832500000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07730283181,
-                    49.03897019817
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07085880003,
-                    49.03057413614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07958374540,
-                    49.03312866024
                 ]
             }
         },
@@ -6807,19 +4766,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02349252834,
-                    49.04694104729
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -6878,45 +4824,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.11872409177,
-                    49.02975213214
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12814604984,
-                    49.03234855337
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03063475802,
-                    49.05758210282
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "3",
                 "STATUT": "A venir"
             },
@@ -6931,19 +4838,6 @@
                         2.31345918701,
                         48.89429884028
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07306214396,
-                    49.03751828044
                 ]
             }
         },
@@ -7038,45 +4932,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12978390370,
-                    49.05433950194
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03003126130,
-                    49.05738700294
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08148520790,
-                    49.03385678213
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "49",
                 "STATUT": "A venir"
             },
@@ -7099,19 +4954,6 @@
                         2.34342622450,
                         48.84128291830
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.04811013388,
-                    49.04788921380
                 ]
             }
         },
@@ -7202,58 +5044,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07716831164,
-                    49.03873455371
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06396916819,
-                    49.04661374787
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08189091594,
-                    49.04171618869
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13631417337,
-                    49.04709006883
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "DÃ©partementale",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -7321,32 +5111,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12026629779,
-                    49.03265617233
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13797391417,
-                    49.04261645601
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "92 - D9"
             },
             "geometry": {
@@ -7364,45 +5128,6 @@
                         2.24129700000,
                         48.88945300000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10217387034,
-                    49.02490455431
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13287235551,
-                    49.05104066750
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12381639802,
-                    49.03493557297
                 ]
             }
         },
@@ -7479,32 +5204,6 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07679515429,
-                    49.03900955599
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10218459930,
-                    49.02546033422
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
@@ -7525,19 +5224,6 @@
                         2.32240500000,
                         48.90492300000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08052835318,
-                    49.04056982065
                 ]
             }
         },
@@ -7629,84 +5315,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12102131709,
-                    49.03292058665
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07049102211,
-                    49.03039506163
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06862582843,
-                    49.04557059912
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10162670049,
-                    49.03030028274
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13750258761,
-                    49.04546473277
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12746395107,
-                    49.03281749276
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -7731,32 +5339,6 @@
                         2.45314260000,
                         48.87043514169
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12524524023,
-                    49.03353783832
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02953804150,
-                    49.05709244583
                 ]
             }
         },
@@ -7874,19 +5456,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02434752923,
-                    49.05388170765
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "92 - D7 Asnières-sur-Seine"
             },
             "geometry": {
@@ -7978,58 +5547,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13466070062,
-                    49.05223515652
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06663460409,
-                    49.03358278077
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06897719760,
-                    49.04554598577
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08190164525,
-                    49.04171618888
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Paris - Sud-nord Leclerc Denfert Saint-Michel"
             },
             "geometry": {
@@ -8051,19 +5568,6 @@
                         2.33666673062,
                         48.83967481126
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12759737821,
-                    49.04913034213
                 ]
             }
         },
@@ -8212,45 +5716,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07727027966,
-                    49.03901063463
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10214168436,
-                    49.02788036681
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10158378505,
-                    49.02813361988
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "48",
                 "STATUT": "A venir"
             },
@@ -8297,19 +5762,6 @@
                         2.27105563150,
                         48.84035357250
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02230564146,
-                    49.04705218081
                 ]
             }
         },
@@ -8368,45 +5820,6 @@
                         2.24091100000,
                         48.89458200000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07690001857,
-                    49.03873394503
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06696671158,
-                    49.04627246130
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02983546091,
-                    49.05755398085
                 ]
             }
         },
@@ -8491,19 +5904,6 @@
                         2.37062155930,
                         48.87831144200
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02330177886,
-                    49.04739946975
                 ]
             }
         },
@@ -8598,32 +5998,6 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12145444276,
-                    49.03299668637
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.01372259125,
-                    49.04147451837
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
@@ -8640,19 +6014,6 @@
                         2.25136800000,
                         48.88808000000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08027996529,
-                    49.03333608396
                 ]
             }
         },
@@ -8687,19 +6048,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03035849176,
-                    49.05791957094
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - D86 Nogent"
             },
             "geometry": {
@@ -8717,58 +6065,6 @@
                         2.47512101054,
                         48.83614350268
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06872775208,
-                    49.04581497151
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10181981932,
-                    49.02729647466
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08197945616,
-                    49.03414974238
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07677643757,
-                    49.03882414466
                 ]
             }
         },
@@ -8800,84 +6096,6 @@
                         2.33339275140,
                         48.91176872493
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12453873976,
-                    49.03329977079
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13558993035,
-                    49.04158969034
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06904425304,
-                    49.04560576085
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10109025862,
-                    49.02885116093
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06103165403,
-                    49.04660096168
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12304671236,
-                    49.03548389947
                 ]
             }
         },
@@ -8926,32 +6144,6 @@
                         2.27905467490,
                         48.85091352140
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08193102333,
-                    49.04172347777
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10237771848,
-                    49.02629750998
                 ]
             }
         },
@@ -9014,19 +6206,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02243413634,
-                    49.04675369113
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - N34"
             },
             "geometry": {
@@ -9060,71 +6239,6 @@
                         2.56758200000,
                         48.86584400000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13858156075,
-                    49.05306492895
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13888089679,
-                    49.04294242562
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06898256231,
-                    49.04578684255
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02992665544,
-                    49.05783344668
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12971686657,
-                    49.05032908145
                 ]
             }
         },
@@ -9205,19 +6319,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12539271142,
-                    49.03399570145
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "187",
                 "STATUT": "A venir"
             },
@@ -9258,45 +6359,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07730353768,
-                    49.03883560596
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07083369493,
-                    49.03061095092
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07915060057,
-                    49.03302049777
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - N186"
             },
             "geometry": {
@@ -9310,19 +6372,6 @@
                         2.49222274303,
                         48.85613170984
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02330884335,
-                    49.04677434726
                 ]
             }
         },
@@ -9384,45 +6433,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.14100008132,
-                    49.05341725408
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12782666300,
-                    49.03258279243
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03054088119,
-                    49.05743973256
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - D40 phase 2"
             },
             "geometry": {
@@ -9460,19 +6470,6 @@
                         2.45729000000,
                         48.87806600000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07728824497,
-                    49.03901549991
                 ]
             }
         },
@@ -9617,19 +6614,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12095750904,
-                    49.03668595149
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "95 - D311"
             },
             "geometry": {
@@ -9733,45 +6717,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13080420559,
-                    49.05324188210
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02987569342,
-                    49.05733075775
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08124344227,
-                    49.03372864969
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - D4"
             },
             "geometry": {
@@ -9793,19 +6738,6 @@
                         2.48398300000,
                         48.82001900000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.04644479478,
-                    49.04806394369
                 ]
             }
         },
@@ -9920,58 +6852,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07696517043,
-                    49.03871786937
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10166961598,
-                    49.02686734391
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08437875870,
-                    49.03605484798
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08056053983,
-                    49.04061201874
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "6",
                 "STATUT": "A venir"
             },
@@ -9986,32 +6866,6 @@
                         2.31257900010,
                         48.84271800070
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.11924450699,
-                    49.03161996297
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13770141121,
-                    49.04251623689
                 ]
             }
         },
@@ -10064,45 +6918,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10227043000,
-                    49.02504525810
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13262838599,
-                    49.05131077672
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12361333436,
-                    49.03505460838
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "24",
                 "STATUT": "A venir"
             },
@@ -10121,32 +6936,6 @@
                         2.38883565030,
                         48.89758166700
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07679628747,
-                    49.03879394374
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10222751465,
-                    49.02553772073
                 ]
             }
         },
@@ -10260,19 +7049,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08042106550,
-                    49.04062608494
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -10293,19 +7069,6 @@
                         2.45439100000,
                         48.87671904169
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12421143404,
-                    49.03324522894
                 ]
             }
         },
@@ -10406,58 +7169,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07021964444,
-                    49.03025859556
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07696323383,
-                    49.03908639579
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10154086907,
-                    49.03014552351
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13632969798,
-                    49.04706140556
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "181",
                 "STATUT": "A venir"
             },
@@ -10516,19 +7227,6 @@
                         2.29222087940,
                         48.82769673220
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12727092430,
-                    49.03291050909
                 ]
             }
         },
@@ -10610,32 +7308,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08438939220,
-                    49.04352984890
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02551472766,
-                    49.05525037356
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - N370 nord"
             },
             "geometry": {
@@ -10665,19 +7337,6 @@
                         2.52855100000,
                         48.86934400000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13380886298,
-                    49.05007450550
                 ]
             }
         },
@@ -10716,58 +7375,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.14007067779,
-                    49.05543605491
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06967622961,
-                    49.03586174510
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06904156989,
-                    49.04572355204
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08197674621,
-                    49.04149816985
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "92 - D920 nord"
             },
             "geometry": {
@@ -10781,19 +7388,6 @@
                         2.31786513492,
                         48.78622752286
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12911106513,
-                    49.05004882681
                 ]
             }
         },
@@ -10894,45 +7488,6 @@
                         2.44276268179,
                         48.84424556453
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12987540594,
-                    49.05422552984
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.09407672970,
-                    49.06286939865
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10121900455,
-                    49.02851349594
                 ]
             }
         },
@@ -11198,19 +7753,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02239041957,
-                    49.04723740188
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - D19"
             },
             "geometry": {
@@ -11252,58 +7794,6 @@
                         2.32904435400,
                         48.89811706320
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07676373503,
-                    49.03883438007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06612514134,
-                    49.04645877718
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02981936754,
-                    49.05764537803
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02346426886,
-                    49.04725592400
                 ]
             }
         },
@@ -11411,32 +7901,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12002249357,
-                    49.03251680383
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.01292379110,
-                    49.04198280311
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "DÃ©partementale",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -11467,19 +7931,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10128337747,
-                    49.03045504007
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -11500,19 +7951,6 @@
                         2.45569480000,
                         48.87642194169
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03054624641,
-                    49.05782641621
                 ]
             }
         },
@@ -11546,58 +7984,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07676302777,
-                    49.03896897227
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10193783657,
-                    49.02742310217
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08117208366,
-                    49.04087927240
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07971296282,
-                    49.04009860614
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Plaine Commune - Landy est"
             },
             "geometry": {
@@ -11611,19 +7997,6 @@
                         2.37210265160,
                         48.91533631554
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12512444757,
-                    49.03347686293
                 ]
             }
         },
@@ -11660,71 +8033,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13502885238,
-                    49.04131811493
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06859364195,
-                    49.04563037373
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10106880077,
-                    49.02934358606
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13690487315,
-                    49.04628322222
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12270711746,
-                    49.03558932637
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -11749,32 +8057,6 @@
                         2.45231730000,
                         48.87709544169
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07703228604,
-                    49.03909206737
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10220605778,
-                    49.02652263024
                 ]
             }
         },
@@ -11807,19 +8089,6 @@
                         2.25507514686,
                         48.83491429675
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.01868639249,
-                    49.04377276290
                 ]
             }
         },
@@ -11859,71 +8128,6 @@
                         2.23889700000,
                         48.90684800000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13439338559,
-                    49.05215533025
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13851310023,
-                    49.04281475183
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.06872506946,
-                    49.04581672938
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03006344797,
-                    49.05790023731
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13382757300,
-                    49.05198636542
                 ]
             }
         },
@@ -11996,19 +8200,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.00971896007,
-                    49.04392653951
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - Avenue de Nogent"
             },
             "geometry": {
@@ -12022,45 +8213,6 @@
                         2.47385200000,
                         48.83539300000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07722395379,
-                    49.03904477495
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07079882545,
-                    49.03058984755
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07891820282,
-                    49.03296483870
                 ]
             }
         },
@@ -12096,19 +8248,6 @@
                         2.21226100000,
                         48.82422200000
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02296266797,
-                    49.04668636584
                 ]
             }
         },
@@ -12222,45 +8361,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.14018302178,
-                    49.05516846258
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13441517586,
-                    49.04103545250
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.03032630497,
-                    49.05738348749
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "9",
                 "STATUT": "A venir"
             },
@@ -12275,19 +8375,6 @@
                         2.32518600060,
                         48.88783400070
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.02265584073,
-                    49.04742287342
                 ]
             }
         },
@@ -12360,19 +8447,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.12087849181,
-                    49.03673020401
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "25",
                 "STATUT": "A venir"
             },
@@ -12387,32 +8461,6 @@
                         2.27661599970,
                         48.84624800060
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.13015003157,
-                    49.05393269640
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.08086625614,
-                    49.03355653830
                 ]
             }
         },
@@ -12436,19 +8484,6 @@
                         2.18554969311,
                         48.88766165155
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.04596394892,
-                    49.04808972278
                 ]
             }
         },
@@ -12549,32 +8584,6 @@
                         2.02243413634,
                         49.04675369113
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.07727141087,
-                    49.03879502238
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Cergy-Pontoise"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.10164815786,
-                    49.02700100782
                 ]
             }
         }
