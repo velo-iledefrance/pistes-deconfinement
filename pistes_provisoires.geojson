@@ -1553,6 +1553,25 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "Malakoff - Guy-Môquet sud"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.29305266261,
+                        48.81298931956
+                    ],
+                    [
+                        2.29683994174,
+                        48.81471318432
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
