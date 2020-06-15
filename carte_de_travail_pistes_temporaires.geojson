@@ -2605,25 +2605,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "93 - D40"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.44488713980,
-                        48.89190833359
-                    ],
-                    [
-                        2.44638900000,
-                        48.88833900000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Shape_Leng": "537.402602312",
                 "name": "Cergy-Pontoise",
                 "objectid": "681",
