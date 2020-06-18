@@ -283,6 +283,34 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "OBJECTID": "21",
+                "STATUT": "A venir"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.34420799950,
+                        48.90072500100
+                    ],
+                    [
+                        2.34424001690,
+                        48.89814030614
+                    ],
+                    [
+                        2.34449735602,
+                        48.89782288921
+                    ],
+                    [
+                        2.34626112175,
+                        48.89566882750
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",

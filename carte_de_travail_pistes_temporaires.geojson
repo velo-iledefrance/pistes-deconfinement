@@ -5012,6 +5012,26 @@
         {
             "type": "Feature",
             "properties": {
+                "OBJECTID": "21",
+                "STATUT": "A venir"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.34626112175,
+                        48.89566882750
+                    ],
+                    [
+                        2.34962543970,
+                        48.89155977700
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "OBJECTID": "186",
                 "STATUT": "A venir"
             },
@@ -7527,34 +7547,6 @@
                     [
                         2.31786513492,
                         48.78622752286
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "OBJECTID": "21",
-                "STATUT": "A venir"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.34420799950,
-                        48.90072500100
-                    ],
-                    [
-                        2.34412199970,
-                        48.89829900140
-                    ],
-                    [
-                        2.34455100020,
-                        48.89790400070
-                    ],
-                    [
-                        2.34962543970,
-                        48.89155977700
                     ]
                 ]
             }
