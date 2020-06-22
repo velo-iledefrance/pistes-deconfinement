@@ -3638,34 +3638,6 @@
         {
             "type": "Feature",
             "properties": {
-                "OBJECTID": "241",
-                "STATUT": "A venir"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.32739358260,
-                        48.89315297890
-                    ],
-                    [
-                        2.32807677430,
-                        48.89505533080
-                    ],
-                    [
-                        2.32875996630,
-                        48.89706328950
-                    ],
-                    [
-                        2.32904435400,
-                        48.89811706320
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "189",
                 "STATUT": "A venir"
             },
