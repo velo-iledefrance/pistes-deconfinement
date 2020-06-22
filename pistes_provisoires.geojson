@@ -404,29 +404,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "92 - D991 D913"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.18554969311,
-                        48.88766165155
-                    ],
-                    [
-                        2.17218700000,
-                        48.88657000000
-                    ],
-                    [
-                        2.17040057659,
-                        48.88689974764
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - Vincennes Avenue de Paris"
             },
             "geometry": {
