@@ -862,6 +862,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "92 - D9"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.24535200000,
+                        48.89265600000
+                    ],
+                    [
+                        2.24286300000,
+                        48.89157000000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Massy - Rondpoint du Pileu"
             },
             "geometry": {

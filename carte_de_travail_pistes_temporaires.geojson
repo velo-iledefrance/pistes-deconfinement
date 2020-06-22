@@ -3143,29 +3143,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "92 - D9"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.24535200000,
-                        48.89265600000
-                    ],
-                    [
-                        2.24286300000,
-                        48.89157000000
-                    ],
-                    [
-                        2.24129700000,
-                        48.88945300000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "Shape_Leng": "132.29088414399999",
                 "name": "Cergy-Pontoise",
                 "objectid": "237",
@@ -3743,6 +3720,25 @@
                     [
                         2.34648352629,
                         48.85619568399
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "92 - D9"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.24286300000,
+                        48.89157000000
+                    ],
+                    [
+                        2.24129700000,
+                        48.88945300000
                     ]
                 ]
             }
