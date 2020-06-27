@@ -1873,6 +1873,30 @@
         {
             "type": "Feature",
             "properties": {
+                "OBJECTID": "8",
+                "STATUT": "A venir"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.31911453121,
+                        48.86269921864
+                    ],
+                    [
+                        2.32035779326,
+                        48.86437251010
+                    ],
+                    [
+                        2.32144348750,
+                        48.86405756903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "94 - Vincennes Avenue de Paris"
             },
             "geometry": {
@@ -2044,6 +2068,30 @@
                     [
                         2.27842500000,
                         48.93795600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "8",
+                "STATUT": "A venir"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32329978426,
+                        48.86627137702
+                    ],
+                    [
+                        2.32529300070,
+                        48.86901300070
+                    ],
+                    [
+                        2.32516224863,
+                        48.86938167957
                     ]
                 ]
             }
