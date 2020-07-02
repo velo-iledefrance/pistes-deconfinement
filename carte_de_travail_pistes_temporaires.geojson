@@ -3932,25 +3932,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "92 - D920 nord"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.31866245761,
-                        48.78799647444
-                    ],
-                    [
-                        2.31786513492,
-                        48.78622752286
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Paris-La-Défense - Sculpteurs et Bâtisseurs"
             },
             "geometry": {
