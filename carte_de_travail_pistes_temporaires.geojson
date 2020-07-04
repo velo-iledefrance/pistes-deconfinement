@@ -3989,30 +3989,6 @@
         {
             "type": "Feature",
             "properties": {
-                "OBJECTID": "225",
-                "STATUT": "Réalisé"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.31526943110,
-                        48.85790899210
-                    ],
-                    [
-                        2.31528768370,
-                        48.85886555960
-                    ],
-                    [
-                        2.31472777153,
-                        48.85887989696
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "8",
                 "STATUT": "A venir"
             },
