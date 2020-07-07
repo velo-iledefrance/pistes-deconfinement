@@ -221,8 +221,13 @@
                     }
                 });
 
+                var queryDict = {}
+                location.search.substr(1).split("&").forEach(function(item) {queryDict[item.split("=")[0]] = item.split("=")[1]})
+                
                 var map = new L.Map('map', {
-                    zoomControl: true, layers: [pianoFR, cyclosmLite, existantLayer, projetLayer, provisoireLayer]
+                    zoomControl: true,
+                    layers: [pianoFR, cyclosmLite, existantLayer, projetLayer, provisoireLayer],
+                    scrollWheelZoom: queryDict['noZoom'] ? false : true
                 }).on('layeradd', function(event){
                     if (event.layer._url && event.layer._url.match(/cyclosm-lite/)) {
                         event.layer.getContainer().className += ' leaflet-layer-cyclosm-lite';
