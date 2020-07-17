@@ -3533,6 +3533,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Paris - Sud-nord Leclerc Denfert Saint-Michel"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32691861839,
+                        48.82792054944
+                    ],
+                    [
+                        2.33186603897,
+                        48.83365144301
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "94 - D86"
             },
             "geometry": {
@@ -3742,6 +3761,29 @@
                     [
                         2.20073412765,
                         48.88709289062
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Sud-nord Leclerc Denfert Saint-Michel"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.33433740994,
+                        48.83630649119
+                    ],
+                    [
+                        2.33666489815,
+                        48.83872089291
+                    ],
+                    [
+                        2.33666673062,
+                        48.83967481126
                     ]
                 ]
             }
