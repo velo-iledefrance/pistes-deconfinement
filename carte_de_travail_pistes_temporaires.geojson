@@ -6721,33 +6721,6 @@
                     ]
                 ]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Paris - Nord-sud Saint-Jacques Tombe-Issoire"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.34333900000,
-                        48.84678100000
-                    ],
-                    [
-                        2.34133200000,
-                        48.84291500000
-                    ],
-                    [
-                        2.34116100000,
-                        48.84119200000
-                    ],
-                    [
-                        2.33969096878,
-                        48.83886822763
-                    ]
-                ]
-            }
         }
     ]
 }
