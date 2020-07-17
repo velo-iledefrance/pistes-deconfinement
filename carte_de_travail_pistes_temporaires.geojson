@@ -48,26 +48,6 @@
         {
             "type": "Feature",
             "properties": {
-                "OBJECTID": "28",
-                "STATUT": "A venir"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.30168964398,
-                        48.86424881160
-                    ],
-                    [
-                        2.30178600060,
-                        48.86258369867
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "6",
                 "STATUT": "A venir"
             },
