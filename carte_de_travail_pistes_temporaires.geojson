@@ -2490,26 +2490,6 @@
         {
             "type": "Feature",
             "properties": {
-                "OBJECTID": "21",
-                "STATUT": "A venir"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.34626112175,
-                        48.89566882750
-                    ],
-                    [
-                        2.34962543970,
-                        48.89155977700
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "Autre",
                 "ID": "2",
                 "INSEECOM_G": "93048",
