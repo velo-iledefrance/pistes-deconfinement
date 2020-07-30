@@ -3607,6 +3607,25 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "Vallée Sud Grand Paris - D77"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32373710155,
+                        48.80547853341
+                    ],
+                    [
+                        2.31929538488,
+                        48.80333034868
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
@@ -5221,14 +5240,6 @@
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
-                    [
-                        2.32373710155,
-                        48.80547853341
-                    ],
-                    [
-                        2.31929538488,
-                        48.80333034868
-                    ],
                     [
                         2.31869457006,
                         48.80204422882
