@@ -160,37 +160,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bagneux - D68A"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.29614255667,
-                        48.79575448642
-                    ],
-                    [
-                        2.29682920218,
-                        48.79613613372
-                    ],
-                    [
-                        2.29788062811,
-                        48.79664499226
-                    ],
-                    [
-                        2.29893205404,
-                        48.79709730663
-                    ],
-                    [
-                        2.29923246145,
-                        48.79691355441
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "184",
                 "STATUT": "A venir"
             },
@@ -2283,6 +2252,37 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Vallée Sud Grand Paris - Gabriel-Péri"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.30095982015,
+                        48.79747893311
+                    ],
+                    [
+                        2.30115293920,
+                        48.79740825980
+                    ],
+                    [
+                        2.30167328775,
+                        48.79708669496
+                    ],
+                    [
+                        2.30205952585,
+                        48.79697008303
+                    ],
+                    [
+                        2.30268179834,
+                        48.79694534713
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Malakoff - Avaulée Paul-Bert"
             },
             "geometry": {
@@ -3792,7 +3792,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bagneux - D128"
+                "name": "Vallée Sud Grand Paris - D128"
             },
             "geometry": {
                 "type": "LineString",
@@ -3836,10 +3836,6 @@
                     [
                         2.29923247218,
                         48.79692061475
-                    ],
-                    [
-                        2.29835269690,
-                        48.79453884976
                     ]
                 ]
             }
@@ -5219,7 +5215,9 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "name": "Vallée Sud Grand Paris - D77"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [

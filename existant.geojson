@@ -1253,6 +1253,33 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "Vallée Sud Grand Paris - Gabriel-Péri"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.30268179834,
+                        48.79694534713
+                    ],
+                    [
+                        2.30358838499,
+                        48.79701602109
+                    ],
+                    [
+                        2.30634033144,
+                        48.79736232209
+                    ],
+                    [
+                        2.30699479043,
+                        48.79747539945
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
