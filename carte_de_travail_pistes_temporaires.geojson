@@ -1965,26 +1965,6 @@
         {
             "type": "Feature",
             "properties": {
-                "OBJECTID": "6",
-                "STATUT": "A venir"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.31056200050,
-                        48.84495400130
-                    ],
-                    [
-                        2.31257900010,
-                        48.84271800070
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - D4"
             },
             "geometry": {
@@ -2870,26 +2850,6 @@
                     [
                         2.45610760000,
                         48.86861854169
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "OBJECTID": "5",
-                "STATUT": "A venir"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.31461799950,
-                        48.84047900110
-                    ],
-                    [
-                        2.31809399970,
-                        48.83751400140
                     ]
                 ]
             }
