@@ -5303,25 +5303,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - Charenton Rue de Paris"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.41476100000,
-                        48.82079600000
-                    ],
-                    [
-                        2.40154300000,
-                        48.82932800000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "92 - D910 Chaville"
             },
             "geometry": {
