@@ -5620,6 +5620,34 @@
         {
             "type": "Feature",
             "properties": {
+                "OBJECTID": "8",
+                "STATUT": "A venir"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32712897719,
+                        48.87360067045
+                    ],
+                    [
+                        2.32689699970,
+                        48.87420900120
+                    ],
+                    [
+                        2.32663372024,
+                        48.87540436015
+                    ],
+                    [
+                        2.32669293344,
+                        48.87557208788
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "94 - N34"
             },
             "geometry": {
