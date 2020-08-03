@@ -3685,36 +3685,6 @@
         {
             "type": "Feature",
             "properties": {
-                "CL_ADMIN": "DÃ©partementale",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "5.5",
-                "NATURE": "Route Ã  1 chaussÃ©e",
-                "NOM_VOIE_G": "BD HENRI BARBUSSE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "23.24"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.43964670095,
-                        48.87139433565
-                    ],
-                    [
-                        2.43968610719,
-                        48.87159697442
-                    ],
-                    [
-                        2.43968766741,
-                        48.87160161197
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "objectid_1": "76",
                 "statut": "projet"
             },
@@ -5667,45 +5637,6 @@
         {
             "type": "Feature",
             "properties": {
-                "CL_ADMIN": "DÃ©partementale",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "5.5",
-                "NATURE": "Route Ã  1 chaussÃ©e",
-                "NOM_VOIE_G": "BD HENRI BARBUSSE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "237.9",
-                "type_amgt": "Piste cyclable"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.44218920000,
-                        48.86732774169
-                    ],
-                    [
-                        2.44220860000,
-                        48.86729724169
-                    ],
-                    [
-                        2.44260920000,
-                        48.86667414169
-                    ],
-                    [
-                        2.44336740000,
-                        48.86550224169
-                    ],
-                    [
-                        2.44347390000,
-                        48.86536334169
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "92 - D910 Chaville"
             },
             "geometry": {
@@ -6254,73 +6185,6 @@
                     [
                         2.37062155930,
                         48.87831144200
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "CL_ADMIN": "DÃ©partementale",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "5.5",
-                "NATURE": "Route Ã  1 chaussÃ©e",
-                "NOM_VOIE_G": "BD HENRI BARBUSSE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "483.5",
-                "type_amgt": "Piste cyclable"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.43964670088,
-                        48.87139433564
-                    ],
-                    [
-                        2.43966290000,
-                        48.87128294169
-                    ],
-                    [
-                        2.43968520000,
-                        48.87123534169
-                    ],
-                    [
-                        2.43992930000,
-                        48.87085074169
-                    ],
-                    [
-                        2.44044240000,
-                        48.87004284169
-                    ],
-                    [
-                        2.44083900000,
-                        48.86941694169
-                    ],
-                    [
-                        2.44107340000,
-                        48.86904754169
-                    ],
-                    [
-                        2.44135620000,
-                        48.86860364169
-                    ],
-                    [
-                        2.44144950000,
-                        48.86841974169
-                    ],
-                    [
-                        2.44155290000,
-                        48.86831764169
-                    ],
-                    [
-                        2.44164020000,
-                        48.86817954169
-                    ],
-                    [
-                        2.44215450000,
-                        48.86738154169
                     ]
                 ]
             }
