@@ -2451,34 +2451,6 @@
         {
             "type": "Feature",
             "properties": {
-                "OBJECTID": "209",
-                "STATUT": "A venir"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.32555389360,
-                        48.82329158570
-                    ],
-                    [
-                        2.32511520320,
-                        48.82206091860
-                    ],
-                    [
-                        2.32505798330,
-                        48.82187254840
-                    ],
-                    [
-                        2.32393264810,
-                        48.82027765430
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "92 - D910 Boulogne"
             },
             "geometry": {
