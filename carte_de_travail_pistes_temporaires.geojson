@@ -3286,33 +3286,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Plaine Commune - D914"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.29228011131,
-                        48.96275095044
-                    ],
-                    [
-                        2.29502669334,
-                        48.96173660234
-                    ],
-                    [
-                        2.29695788383,
-                        48.96096173920
-                    ],
-                    [
-                        2.29966155052,
-                        48.95931335393
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "91 - N20 Massy–Linas"
             },
             "geometry": {
