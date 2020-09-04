@@ -2378,6 +2378,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "93 - N186 nord"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.43141200000,
+                        48.91465900000
+                    ],
+                    [
+                        2.43418514192,
+                        48.91359470769
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "93 - D931"
             },
             "geometry": {
