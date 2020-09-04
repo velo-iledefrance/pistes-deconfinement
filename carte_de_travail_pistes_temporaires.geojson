@@ -6,40 +6,6 @@
         {
             "type": "Feature",
             "properties": {
-                "CL_ADMIN": "Autre",
-                "ID": "2",
-                "INSEECOM_G": "93063",
-                "LARGEUR": "4.0",
-                "NATURE": "Route Ã  2 chaussÃ©es",
-                "NOM_VOIE_G": "AV DU DOCTEUR FERNAND LAMAZE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "38.17"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.45089431425,
-                        48.87705197441
-                    ],
-                    [
-                        2.45105101851,
-                        48.87706078702
-                    ],
-                    [
-                        2.45124720424,
-                        48.87707517638
-                    ],
-                    [
-                        2.45141206055,
-                        48.87708672387
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - D19"
             },
             "geometry": {
@@ -689,6 +655,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "93 - D40 phase 2"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.44591700000,
+                        48.88627900000
+                    ],
+                    [
+                        2.44115400000,
+                        48.88455700000
+                    ],
+                    [
+                        2.44072400000,
+                        48.88376700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "objectid_1": "74",
                 "statut": "projet"
             },
@@ -778,49 +767,6 @@
                     [
                         2.10205585370,
                         49.02786629666
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "93 - D40 phase 2"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.44638900000,
-                        48.88819800000
-                    ],
-                    [
-                        2.44656100000,
-                        48.88735100000
-                    ],
-                    [
-                        2.44591700000,
-                        48.88627900000
-                    ],
-                    [
-                        2.44115400000,
-                        48.88455700000
-                    ],
-                    [
-                        2.44072400000,
-                        48.88376700000
-                    ],
-                    [
-                        2.44703300000,
-                        48.88125600000
-                    ],
-                    [
-                        2.44939300000,
-                        48.87865900000
-                    ],
-                    [
-                        2.45729000000,
-                        48.87806600000
                     ]
                 ]
             }
@@ -1228,44 +1174,6 @@
         {
             "type": "Feature",
             "properties": {
-                "CL_ADMIN": "Autre",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "4.0",
-                "NATURE": "Route Ã  2 chaussÃ©es",
-                "NOM_VOIE_G": "AV DU DOCTEUR FERNAND LAMAZE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "52.26"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.45141210000,
-                        48.87708674169
-                    ],
-                    [
-                        2.45144070000,
-                        48.87708964169
-                    ],
-                    [
-                        2.45174050000,
-                        48.87710084169
-                    ],
-                    [
-                        2.45182910000,
-                        48.87710484169
-                    ],
-                    [
-                        2.45212360000,
-                        48.87710804169
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - Avenue de Nogent"
             },
             "geometry": {
@@ -1532,52 +1440,6 @@
                     [
                         2.41810800000,
                         48.79641900000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "CL_ADMIN": "Autre",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "4.0",
-                "NATURE": "Route Ã  2 chaussÃ©es",
-                "NOM_VOIE_G": "AV DU DOCTEUR FERNAND LAMAZE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "124.1"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.45231730000,
-                        48.87709544169
-                    ],
-                    [
-                        2.45276620000,
-                        48.87706864169
-                    ],
-                    [
-                        2.45303360000,
-                        48.87705014169
-                    ],
-                    [
-                        2.45327120000,
-                        48.87701704169
-                    ],
-                    [
-                        2.45349940000,
-                        48.87696594169
-                    ],
-                    [
-                        2.45378520000,
-                        48.87688444169
-                    ],
-                    [
-                        2.45394930000,
-                        48.87683934169
                     ]
                 ]
             }
@@ -2214,32 +2076,6 @@
         {
             "type": "Feature",
             "properties": {
-                "CL_ADMIN": "Autre",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "4.0",
-                "NATURE": "Route Ã  2 chaussÃ©es",
-                "NOM_VOIE_G": "AV LEO LAGRANGE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "31.46"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.45610200000,
-                        48.87633294169
-                    ],
-                    [
-                        2.45569480000,
-                        48.87642194169
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "objectid_1": "22",
                 "statut": "projet"
             },
@@ -2353,6 +2189,25 @@
                     [
                         2.07703228604,
                         49.03909206645
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "93 - D40 phase 2"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.44939300000,
+                        48.87865900000
+                    ],
+                    [
+                        2.44933993248,
+                        48.87692997661
                     ]
                 ]
             }
@@ -2666,6 +2521,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "93 - D40 phase 2"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.44638900000,
+                        48.88819800000
+                    ],
+                    [
+                        2.44656100000,
+                        48.88735100000
+                    ],
+                    [
+                        2.44591700000,
+                        48.88627900000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Plaine Commune - Landy est"
             },
             "geometry": {
@@ -2771,32 +2649,6 @@
                     [
                         2.25344900000,
                         48.83672700000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "CL_ADMIN": "Autre",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "4.0",
-                "NATURE": "Route Ã  2 chaussÃ©es",
-                "NOM_VOIE_G": "AV DU DOCTEUR FERNAND LAMAZE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "35.05"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.45394930000,
-                        48.87683934169
-                    ],
-                    [
-                        2.45439100000,
-                        48.87671904169
                     ]
                 ]
             }
@@ -3305,36 +3157,6 @@
                     [
                         2.48398300000,
                         48.82001900000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "CL_ADMIN": "Autre",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "4.0",
-                "NATURE": "Route Ã  2 chaussÃ©es",
-                "NOM_VOIE_G": "AV DU DOCTEUR FERNAND LAMAZE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "14.27"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.45212360000,
-                        48.87710804169
-                    ],
-                    [
-                        2.45219040000,
-                        48.87710384169
-                    ],
-                    [
-                        2.45231730000,
-                        48.87709544169
                     ]
                 ]
             }
@@ -3955,36 +3777,6 @@
                     [
                         2.36169946260,
                         48.83980196950
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "CL_ADMIN": "Autre",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "4.0",
-                "NATURE": "Route Ã  2 chaussÃ©es",
-                "NOM_VOIE_G": "AV LEO LAGRANGE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "72.44"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.45569480000,
-                        48.87642194169
-                    ],
-                    [
-                        2.45498700000,
-                        48.87657074169
-                    ],
-                    [
-                        2.45475470000,
-                        48.87662184169
                     ]
                 ]
             }
@@ -4755,32 +4547,6 @@
         {
             "type": "Feature",
             "properties": {
-                "CL_ADMIN": "Autre",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "4.0",
-                "NATURE": "Route Ã  2 chaussÃ©es",
-                "NOM_VOIE_G": "AV LEO LAGRANGE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "28.78"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.45475470000,
-                        48.87662184169
-                    ],
-                    [
-                        2.45439100000,
-                        48.87671904169
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Plaine Commune - D30"
             },
             "geometry": {
@@ -5337,40 +5103,6 @@
                     [
                         2.42928701189,
                         48.85860517524
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "CL_ADMIN": "Autre",
-                "ID": "2",
-                "INSEECOM_G": "93063",
-                "LARGEUR": "4.0",
-                "NATURE": "Route Ã  2 chaussÃ©es",
-                "NOM_VOIE_G": "AV DU DOCTEUR FERNAND LAMAZE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "115.7"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.44932768335,
-                        48.87692516779
-                    ],
-                    [
-                        2.44962198425,
-                        48.87694450774
-                    ],
-                    [
-                        2.45062586919,
-                        48.87703725288
-                    ],
-                    [
-                        2.45089431425,
-                        48.87705197441
                     ]
                 ]
             }
