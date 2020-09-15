@@ -2737,27 +2737,6 @@
         },
         {
             "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.43818698168,
-                        48.85076652316
-                    ],
-                    [
-                        2.43993041754,
-                        48.85082300166
-                    ],
-                    [
-                        2.45591638327,
-                        48.84967929972
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "properties": {
                 "name": "95 - D14 entre pont de l’Oise et rue du Parc"
             },
