@@ -7232,29 +7232,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Paris - Sud-nord Leclerc Denfert Saint-Michel"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.34489480622,
-                        48.85434803900
-                    ],
-                    [
-                        2.34601813988,
-                        48.85546859158
-                    ],
-                    [
-                        2.34648352629,
-                        48.85619568399
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "OBJECTID": "37",
                 "STATUT": "A venir"
             },
