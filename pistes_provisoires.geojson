@@ -2389,6 +2389,25 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "Paris - Avenue de la Porte-d’Aubervilliers sud-nord"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.37115859449,
+                        48.89869029644
+                    ],
+                    [
+                        2.37109958589,
+                        48.90022783901
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
