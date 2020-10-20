@@ -1243,6 +1243,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Pantin - D115 sud"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.39795900000,
+                        48.89353100000
+                    ],
+                    [
+                        2.39974000000,
+                        48.89509336609
+                    ],
+                    [
+                        2.40096354233,
+                        48.89572779412
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "93 - N186 nord"
             },
             "geometry": {
