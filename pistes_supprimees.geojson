@@ -26,7 +26,9 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "popup": "**D186 entre Le Vésinet et Chatou** <br><br>**Qui a supprimé la piste ?** La mairie du Vésinet et la mairie de Chatou. <br><br>**Pourquoi ?**La piste a été supprimée fin mai après deux semaines d’existence, car elle était accusée de créer trop d'embouteillages. <br><br> [En savoir plus](https://www.leparisien.fr/yvelines-78/retropedalage-sur-la-piste-cyclable-temporaire-entre-le-pecq-et-chatou-24-05-2020-8322564.php)"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -160,6 +162,19 @@
         {
             "type": "Feature",
             "properties": {
+                "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Pourquoi ?**L’abandon du projet de coronapiste entre Cergy et Saint-Gratien a mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.20430365562,
+                    48.98973630149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "94 - D86"
             },
             "geometry": {
@@ -221,7 +236,21 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "95 - D14"
+                "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Pourquoi ?**L’abandon du projet de coronapiste entre Cergy et Saint-Gratien a mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.19820967674,
+                    48.99260862035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "95 - D14",
+                "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Pourquoi ?**L’abandon du projet de coronapiste entre Cergy et Saint-Gratien a mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)"
             },
             "geometry": {
                 "type": "LineString",
@@ -284,7 +313,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - D86"
+                "name": "94 - D86",
+                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département, sur demande des maires de Créteil et de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifier et sécuriser le trafic. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
             },
             "geometry": {
                 "type": "LineString",
@@ -447,7 +477,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Argenteuil - D122 Gabriel-Péri",
-                "popup": "**Qui a supprimé la piste ?** La mairie. <br><br>**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
+                "popup": "**D122 à Argenteuil** <br><br>**Qui a supprimé la piste ?** La mairie d'Argenteuil. <br><br>**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
             },
             "geometry": {
                 "type": "LineString",
@@ -479,6 +509,19 @@
                         2.49341400000,
                         48.85393700000
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Pourquoi ?**L’abandon du projet de coronapiste entre Cergy et Saint-Gratien a mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.18748084068,
+                    48.99795857672
                 ]
             }
         },
