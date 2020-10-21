@@ -447,7 +447,7 @@
             "type": "Feature",
             "properties": {
                 "name": "Argenteuil - D122 Gabriel-Péri",
-                "popup": "**Qui a supprimé la piste ?** La mairie. \\r\\n\\r\\n**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. \\r\\n\\r\\n[En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
+                "popup": "**Qui a supprimé la piste ?** La mairie. <br><br>**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
             },
             "geometry": {
                 "type": "LineString",
