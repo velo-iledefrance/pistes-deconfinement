@@ -5,27 +5,6 @@
     "features": [
         {
             "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.43441044748,
-                        48.77288921399
-                    ],
-                    [
-                        2.41569398761,
-                        48.76729237520
-                    ],
-                    [
-                        2.41441722393,
-                        48.76693881625
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "properties": {
                 "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
             },
@@ -92,8 +71,8 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.41441722393,
-                        48.76693881625
+                        2.41337656438,
+                        48.76664885391
                     ],
                     [
                         2.41043686599,
