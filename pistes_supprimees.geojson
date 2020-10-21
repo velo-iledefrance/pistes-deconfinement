@@ -379,19 +379,6 @@
         {
             "type": "Feature",
             "properties": {
-                "popup": "**Qui a supprimé la piste ?** La mairie. \\r\\n\\r\\n**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. \\r\\n\\r\\n[En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.25413746041,
-                    48.94113239190
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "94 - N186"
             },
             "geometry": {
@@ -453,19 +440,6 @@
                         2.22813246489,
                         48.88546055002
                     ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**Qui a supprimé la piste ?** La mairie. \\r\\n\\r\\n**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. \\r\\n\\r\\n[En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    2.24876399517,
-                    48.94649069171
                 ]
             }
         },
