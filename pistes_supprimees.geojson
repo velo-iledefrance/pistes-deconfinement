@@ -5,6 +5,19 @@
     "features": [
         {
             "type": "Feature",
+            "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.49046321392,
+                    48.85263029398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
@@ -249,6 +262,19 @@
         {
             "type": "Feature",
             "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.49597275463,
+                    48.84923048947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "95 - D14",
                 "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Pourquoi ?**L’abandon du projet de coronapiste entre Cergy et Saint-Gratien a mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)"
             },
@@ -291,7 +317,9 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -307,6 +335,19 @@
                         2.49589202642,
                         48.84925569978
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.49341400000,
+                    48.85393700000
                 ]
             }
         },
@@ -351,6 +392,32 @@
                         2.44365421499,
                         48.77957374048
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.49341400000,
+                    48.85393700000
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.49335999966,
+                    48.85392923489
                 ]
             }
         },
@@ -409,7 +476,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - N186"
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
             },
             "geometry": {
                 "type": "LineString",
@@ -422,6 +489,19 @@
                         2.49597275463,
                         48.84923048947
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.49222274303,
+                    48.85613170984
                 ]
             }
         },
@@ -451,6 +531,19 @@
                         2.46922792784,
                         48.79966353693
                     ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.49589202642,
+                    48.84925569978
                 ]
             }
         },
@@ -496,7 +589,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - N186"
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
             },
             "geometry": {
                 "type": "LineString",
@@ -527,7 +620,9 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département, sur demande des maires de Créteil et de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifier et sécuriser le trafic. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
