@@ -10,288 +10,16 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.46711726665,
-                        48.81720705248
+                        2.43441044748,
+                        48.77288921399
                     ],
                     [
-                        2.46801848888,
-                        48.81423985511
+                        2.41569398761,
+                        48.76729237520
                     ],
-                    [
-                        2.46896262646,
-                        48.81127248211
-                    ],
-                    [
-                        2.47110839367,
-                        48.80985938562
-                    ],
-                    [
-                        2.47123713970,
-                        48.80742876650
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Créteil - Général-de-Gaulle"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.44948199482,
-                        48.80126926046
-                    ],
-                    [
-                        2.45617400000,
-                        48.79773300000
-                    ],
-                    [
-                        2.46114152513,
-                        48.79356313576
-                    ],
-                    [
-                        2.46208544048,
-                        48.79150693183
-                    ],
-                    [
-                        2.46279325264,
-                        48.79074367028
-                    ],
-                    [
-                        2.46375917315,
-                        48.79014958377
-                    ],
-                    [
-                        2.46698900000,
-                        48.78868600000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "94 - N186"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49341400000,
-                        48.85393700000
-                    ],
-                    [
-                        2.49597275463,
-                        48.84923048947
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "94 - N186"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49222274303,
-                        48.85613170984
-                    ],
-                    [
-                        2.49341400000,
-                        48.85393700000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "94 - D86"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.46922792784,
-                        48.79966353693
-                    ],
-                    [
-                        2.46614629696,
-                        48.79928427139
-                    ],
-                    [
-                        2.46553480089,
-                        48.79895951614
-                    ],
-                    [
-                        2.46407000000,
-                        48.79738000000
-                    ],
-                    [
-                        2.46342700000,
-                        48.79602300000
-                    ],
-                    [
-                        2.46110900000,
-                        48.79359200000
-                    ],
-                    [
-                        2.45286900000,
-                        48.79017100000
-                    ],
-                    [
-                        2.44365421499,
-                        48.77957374048
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
                     [
                         2.41441722393,
                         48.76693881625
-                    ],
-                    [
-                        2.41043686599,
-                        48.76588510609
-                    ],
-                    [
-                        2.40549083233,
-                        48.76436467764
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "94 - D86"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.43919100000,
-                        48.77435000000
-                    ],
-                    [
-                        2.43440781327,
-                        48.77288527005
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49335999966,
-                        48.85392923489
-                    ],
-                    [
-                        2.49046321392,
-                        48.85263029398
-                    ],
-                    [
-                        2.49589202642,
-                        48.84925569978
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.43922231436,
-                        48.85075240353
-                    ],
-                    [
-                        2.43969436169,
-                        48.85082301578
-                    ],
-                    [
-                        2.45595927715,
-                        48.84972167364
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "92 - D19 Genneviliers"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.28131530523,
-                        48.93400305637
-                    ],
-                    [
-                        2.27894000000,
-                        48.93657400000
-                    ],
-                    [
-                        2.27842500000,
-                        48.93795600000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Argenteuil - D122 Gabriel-Péri",
-                "popup": "**Qui a supprimé la piste ?** La mairie. **Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. [En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.24876399517,
-                        48.94649069171
-                    ],
-                    [
-                        2.25413746041,
-                        48.94113239190
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Vallée Sud Grand Paris - D128"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.30095042706,
-                        48.79747628639
-                    ],
-                    [
-                        2.29923247218,
-                        48.79692061475
                     ]
                 ]
             }
@@ -371,6 +99,66 @@
         },
         {
             "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.43922231436,
+                        48.85075240353
+                    ],
+                    [
+                        2.43969436169,
+                        48.85082301578
+                    ],
+                    [
+                        2.45595927715,
+                        48.84972167364
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Créteil - Général-de-Gaulle"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.44948199482,
+                        48.80126926046
+                    ],
+                    [
+                        2.45617400000,
+                        48.79773300000
+                    ],
+                    [
+                        2.46114152513,
+                        48.79356313576
+                    ],
+                    [
+                        2.46208544048,
+                        48.79150693183
+                    ],
+                    [
+                        2.46279325264,
+                        48.79074367028
+                    ],
+                    [
+                        2.46375917315,
+                        48.79014958377
+                    ],
+                    [
+                        2.46698900000,
+                        48.78868600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "name": "94 - D86"
             },
@@ -391,18 +179,83 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "92 - D991 D913"
+                "name": "92 - D19 Genneviliers"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.23466401321,
-                        48.88817933332
+                        2.28131530523,
+                        48.93400305637
                     ],
                     [
-                        2.22813246489,
-                        48.88546055002
+                        2.27894000000,
+                        48.93657400000
+                    ],
+                    [
+                        2.27842500000,
+                        48.93795600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - D86"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.43919100000,
+                        48.77435000000
+                    ],
+                    [
+                        2.43440781327,
+                        48.77288527005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "95 - D14"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.18748084068,
+                        48.99795857672
+                    ],
+                    [
+                        2.19820967674,
+                        48.99260862035
+                    ],
+                    [
+                        2.20430365562,
+                        48.98973630149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vallée Sud Grand Paris - D128"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.30095042706,
+                        48.79747628639
+                    ],
+                    [
+                        2.29923247218,
+                        48.79692061475
                     ]
                 ]
             }
@@ -414,16 +267,59 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.43441044748,
-                        48.77288921399
+                        2.49335999966,
+                        48.85392923489
                     ],
                     [
-                        2.41569398761,
-                        48.76729237520
+                        2.49046321392,
+                        48.85263029398
                     ],
                     [
-                        2.41441722393,
-                        48.76693881625
+                        2.49589202642,
+                        48.84925569978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - D86"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.46922792784,
+                        48.79966353693
+                    ],
+                    [
+                        2.46614629696,
+                        48.79928427139
+                    ],
+                    [
+                        2.46553480089,
+                        48.79895951614
+                    ],
+                    [
+                        2.46407000000,
+                        48.79738000000
+                    ],
+                    [
+                        2.46342700000,
+                        48.79602300000
+                    ],
+                    [
+                        2.46110900000,
+                        48.79359200000
+                    ],
+                    [
+                        2.45286900000,
+                        48.79017100000
+                    ],
+                    [
+                        2.44365421499,
+                        48.77957374048
                     ]
                 ]
             }
@@ -466,6 +362,59 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        2.41441722393,
+                        48.76693881625
+                    ],
+                    [
+                        2.41043686599,
+                        48.76588510609
+                    ],
+                    [
+                        2.40549083233,
+                        48.76436467764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**Qui a supprimé la piste ?** La mairie. \\r\\n\\r\\n**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. \\r\\n\\r\\n[En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.25413746041,
+                    48.94113239190
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - N186"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.49341400000,
+                        48.85393700000
+                    ],
+                    [
+                        2.49597275463,
+                        48.84923048947
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
                         2.47132297039,
                         48.80584597443
                     ],
@@ -491,22 +440,99 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "95 - D14"
+                "name": "92 - D991 D913"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.18748084068,
-                        48.99795857672
+                        2.23466401321,
+                        48.88817933332
                     ],
                     [
-                        2.19820967674,
-                        48.99260862035
+                        2.22813246489,
+                        48.88546055002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**Qui a supprimé la piste ?** La mairie. \\r\\n\\r\\n**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. \\r\\n\\r\\n[En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.24876399517,
+                    48.94649069171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Argenteuil - D122 Gabriel-Péri",
+                "popup": "**Qui a supprimé la piste ?** La mairie. \\r\\n\\r\\n**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. \\r\\n\\r\\n[En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.24876399517,
+                        48.94649069171
                     ],
                     [
-                        2.20430365562,
-                        48.98973630149
+                        2.25413746041,
+                        48.94113239190
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - N186"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.49222274303,
+                        48.85613170984
+                    ],
+                    [
+                        2.49341400000,
+                        48.85393700000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.46711726665,
+                        48.81720705248
+                    ],
+                    [
+                        2.46801848888,
+                        48.81423985511
+                    ],
+                    [
+                        2.46896262646,
+                        48.81127248211
+                    ],
+                    [
+                        2.47110839367,
+                        48.80985938562
+                    ],
+                    [
+                        2.47123713970,
+                        48.80742876650
                     ]
                 ]
             }
