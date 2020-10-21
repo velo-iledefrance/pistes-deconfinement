@@ -6,7 +6,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popup": "**D86 à Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département, à la demande de la ville de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifier le trafic. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
+                "popup": "**D86 à Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département, à la demande de la ville de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifier le trafic automobile. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
             },
             "geometry": {
                 "type": "LineString",
@@ -37,7 +37,7 @@
         {
             "type": "Feature",
             "properties": {
-                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, à la demande de la ville de Créteil et de Saint-Maur-des-Fossés.<br><br>**Pourquoi ?** La coronapiste le long de la D86 a été supprimée pour fluidifier le trafic.<br><br>[En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
+                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, à la demande de la ville de Créteil et de Saint-Maur-des-Fossés.<br><br>**Pourquoi ?** La coronapiste le long de la D86 a été supprimée pour fluidifier le trafic automobile.<br><br>[En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
             },
             "geometry": {
                 "type": "LineString",
@@ -161,7 +161,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - D86"
+                "name": "94 - D86",
+                "popup": "**D86 à Créteil.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** Pour fluidifier le trafic automobile."
             },
             "geometry": {
                 "type": "LineString",
@@ -180,7 +181,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "92 - D19 Genneviliers"
+                "name": "92 - D19 Genneviliers",
+                "popup": "**D19 à Gennevilliers.**<br><br>**Qui a supprimé la piste ?** Le département.<br><br>**Pourquoi ?** La piste était peu fréquentée, sur un axe très emprunté par des poids lourds."
             },
             "geometry": {
                 "type": "LineString",
@@ -363,7 +365,7 @@
             "type": "Feature",
             "properties": {
                 "name": "94 - D86",
-                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département, sur demande des maires de Créteil et de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifie le trafic. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
+                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département, sur demande des maires de Créteil et de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifie le trafic automobile. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
             },
             "geometry": {
                 "type": "LineString",
@@ -405,7 +407,9 @@
         },
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "popup": "**D86 à Choisy-le-Roi.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** Pour fluidifier le trafic automobile."
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
@@ -467,7 +471,8 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "92 - D991 D913"
+                "name": "92 - D991 D913",
+                "popup": "**D86 à Puteaux.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, sur demande de la ville de Puteaux.<br><br>**Pourquoi ?** La piste a été remplacée par des pictogrammes vélo.<br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1300360266329317376?s=20)"
             },
             "geometry": {
                 "type": "LineString",
