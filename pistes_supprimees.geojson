@@ -27,6 +27,88 @@
         {
             "type": "Feature",
             "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.49335999966,
+                        48.85392923489
+                    ],
+                    [
+                        2.49046321392,
+                        48.85263029398
+                    ],
+                    [
+                        2.49589202642,
+                        48.84925569978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - D86"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.43919100000,
+                        48.77435000000
+                    ],
+                    [
+                        2.43440781327,
+                        48.77288527005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "92 - D991 D913"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.23466401321,
+                        48.88817933332
+                    ],
+                    [
+                        2.22813246489,
+                        48.88546055002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.41441722393,
+                        48.76693881625
+                    ],
+                    [
+                        2.41043686599,
+                        48.76588510609
+                    ],
+                    [
+                        2.40549083233,
+                        48.76436467764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "popup": "**D186 entre Le Vésinet et Chatou** <br><br>**Qui a supprimé la piste ?** La mairie du Vésinet et la mairie de Chatou. <br><br>**Pourquoi ?**La piste a été supprimée fin mai après deux semaines d’existence, car elle était accusée de créer trop d'embouteillages. <br><br> [En savoir plus](https://www.leparisien.fr/yvelines-78/retropedalage-sur-la-piste-cyclable-temporaire-entre-le-pecq-et-chatou-24-05-2020-8322564.php)"
             },
             "geometry": {
@@ -101,60 +183,24 @@
         },
         {
             "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.43922231436,
-                        48.85075240353
-                    ],
-                    [
-                        2.43969436169,
-                        48.85082301578
-                    ],
-                    [
-                        2.45595927715,
-                        48.84972167364
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "properties": {
-                "name": "Créteil - Général-de-Gaulle"
+                "name": "95 - D14",
+                "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Pourquoi ?**L’abandon du projet de coronapiste entre Cergy et Saint-Gratien a mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.44948199482,
-                        48.80126926046
+                        2.18748084068,
+                        48.99795857672
                     ],
                     [
-                        2.45617400000,
-                        48.79773300000
+                        2.19820967674,
+                        48.99260862035
                     ],
                     [
-                        2.46114152513,
-                        48.79356313576
-                    ],
-                    [
-                        2.46208544048,
-                        48.79150693183
-                    ],
-                    [
-                        2.46279325264,
-                        48.79074367028
-                    ],
-                    [
-                        2.46375917315,
-                        48.79014958377
-                    ],
-                    [
-                        2.46698900000,
-                        48.78868600000
+                        2.20430365562,
+                        48.98973630149
                     ]
                 ]
             }
@@ -172,8 +218,27 @@
                         48.77957400000
                     ],
                     [
-                        2.43919100000,
-                        48.77435000000
+                        2.43951018287,
+                        48.77466817529
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.49341400000,
+                        48.85393700000
+                    ],
+                    [
+                        2.49597275463,
+                        48.84923048947
                     ]
                 ]
             }
@@ -204,18 +269,30 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - D86"
+                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département, sur demande des maires de Créteil et de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifier et sécuriser le trafic. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.43919100000,
-                        48.77435000000
+                        2.46711726665,
+                        48.81720705248
                     ],
                     [
-                        2.43440781327,
-                        48.77288527005
+                        2.46801848888,
+                        48.81423985511
+                    ],
+                    [
+                        2.46896262646,
+                        48.81127248211
+                    ],
+                    [
+                        2.47110839367,
+                        48.80985938562
+                    ],
+                    [
+                        2.47123713970,
+                        48.80742876650
                     ]
                 ]
             }
@@ -223,65 +300,30 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "95 - D14",
-                "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Pourquoi ?**L’abandon du projet de coronapiste entre Cergy et Saint-Gratien a mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)"
+                "name": "Créteil - Général-de-Gaulle"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.18748084068,
-                        48.99795857672
+                        2.45160300000,
+                        48.79862400000
                     ],
                     [
-                        2.19820967674,
-                        48.99260862035
+                        2.44915700000,
+                        48.79866600000
                     ],
                     [
-                        2.20430365562,
-                        48.98973630149
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Vallée Sud Grand Paris - D128"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.30095042706,
-                        48.79747628639
+                        2.44877100000,
+                        48.79852500000
                     ],
                     [
-                        2.29923247218,
-                        48.79692061475
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49335999966,
-                        48.85392923489
+                        2.44855600000,
+                        48.79829900000
                     ],
                     [
-                        2.49046321392,
-                        48.85263029398
-                    ],
-                    [
-                        2.49589202642,
-                        48.84925569978
+                        2.44698999166,
+                        48.79408651232
                     ]
                 ]
             }
@@ -339,24 +381,52 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.45160300000,
-                        48.79862400000
+                        2.44948199482,
+                        48.80126926046
                     ],
                     [
-                        2.44915700000,
-                        48.79866600000
+                        2.45617400000,
+                        48.79773300000
                     ],
                     [
-                        2.44877100000,
-                        48.79852500000
+                        2.46114152513,
+                        48.79356313576
                     ],
                     [
-                        2.44855600000,
-                        48.79829900000
+                        2.46208544048,
+                        48.79150693183
                     ],
                     [
-                        2.44698999166,
-                        48.79408651232
+                        2.46279325264,
+                        48.79074367028
+                    ],
+                    [
+                        2.46375917315,
+                        48.79014958377
+                    ],
+                    [
+                        2.46698900000,
+                        48.78868600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Argenteuil - D122 Gabriel-Péri",
+                "popup": "**D122 à Argenteuil** <br><br>**Qui a supprimé la piste ?** La mairie d'Argenteuil. <br><br>**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.24876399517,
+                        48.94649069171
+                    ],
+                    [
+                        2.25413746041,
+                        48.94113239190
                     ]
                 ]
             }
@@ -368,16 +438,35 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.41441722393,
-                        48.76693881625
+                        2.43922231436,
+                        48.85075240353
                     ],
                     [
-                        2.41043686599,
-                        48.76588510609
+                        2.43969436169,
+                        48.85082301578
                     ],
                     [
-                        2.40549083233,
-                        48.76436467764
+                        2.45595927715,
+                        48.84972167364
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Vallée Sud Grand Paris - D128"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.30095042706,
+                        48.79747628639
+                    ],
+                    [
+                        2.29923247218,
+                        48.79692061475
                     ]
                 ]
             }
@@ -391,12 +480,12 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.49341400000,
-                        48.85393700000
+                        2.49222274303,
+                        48.85613170984
                     ],
                     [
-                        2.49597275463,
-                        48.84923048947
+                        2.49341400000,
+                        48.85393700000
                     ]
                 ]
             }
@@ -426,95 +515,6 @@
                     [
                         2.46922792784,
                         48.79966353693
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "92 - D991 D913"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.23466401321,
-                        48.88817933332
-                    ],
-                    [
-                        2.22813246489,
-                        48.88546055002
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Argenteuil - D122 Gabriel-Péri",
-                "popup": "**D122 à Argenteuil** <br><br>**Qui a supprimé la piste ?** La mairie d'Argenteuil. <br><br>**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.24876399517,
-                        48.94649069171
-                    ],
-                    [
-                        2.25413746041,
-                        48.94113239190
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49222274303,
-                        48.85613170984
-                    ],
-                    [
-                        2.49341400000,
-                        48.85393700000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département, sur demande des maires de Créteil et de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifier et sécuriser le trafic. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.46711726665,
-                        48.81720705248
-                    ],
-                    [
-                        2.46801848888,
-                        48.81423985511
-                    ],
-                    [
-                        2.46896262646,
-                        48.81127248211
-                    ],
-                    [
-                        2.47110839367,
-                        48.80985938562
-                    ],
-                    [
-                        2.47123713970,
-                        48.80742876650
                     ]
                 ]
             }
