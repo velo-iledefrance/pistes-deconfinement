@@ -3611,6 +3611,26 @@
         {
             "type": "Feature",
             "properties": {
+                "OBJECTID": "3",
+                "STATUT": "A venir"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.31345918701,
+                        48.89429884028
+                    ],
+                    [
+                        2.31195686102,
+                        48.89518128847
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Montreuil - Résistance Pasteur"
             },
             "geometry": {
@@ -4592,6 +4612,26 @@
                     [
                         2.52745600000,
                         48.91037200000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": "9",
+                "STATUT": "A venir"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.31908120288,
+                        48.89123035363
+                    ],
+                    [
+                        2.32560442521,
+                        48.88750243397
                     ]
                 ]
             }

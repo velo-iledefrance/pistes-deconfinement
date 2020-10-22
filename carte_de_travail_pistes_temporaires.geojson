@@ -352,26 +352,6 @@
         {
             "type": "Feature",
             "properties": {
-                "OBJECTID": "3",
-                "STATUT": "A venir"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.31013045526,
-                        48.89631556965
-                    ],
-                    [
-                        2.31345918701,
-                        48.89429884028
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "CL_ADMIN": "DÃ©partementale",
                 "ID": "2",
                 "INSEECOM_G": "93048",
@@ -1498,26 +1478,6 @@
                     [
                         2.40099548221,
                         48.92462823359
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "OBJECTID": "9",
-                "STATUT": "A venir"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.31956400050,
-                        48.89105400060
-                    ],
-                    [
-                        2.32518600060,
-                        48.88783400070
                     ]
                 ]
             }
