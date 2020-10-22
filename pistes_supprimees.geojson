@@ -6,94 +6,18 @@
         {
             "type": "Feature",
             "properties": {
-                "popup": "**D86 a et D86 b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département.<br><br>**Pourquoi ?** La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+                "name": "Vallée Sud Grand Paris - D128"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.49341400000,
-                        48.85393700000
+                        2.30095042706,
+                        48.79747628639
                     ],
                     [
-                        2.49597275463,
-                        48.84923048947
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "92 - D19 Genneviliers",
-                "popup": "**D19 à Gennevilliers.**<br><br>**Qui a supprimé la piste ?** Le département.<br><br>**Pourquoi ?** La piste était peu fréquentée, sur un axe très emprunté par des poids lourds."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.28131530523,
-                        48.93400305637
-                    ],
-                    [
-                        2.27894000000,
-                        48.93657400000
-                    ],
-                    [
-                        2.27842500000,
-                        48.93795600000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, à la demande de la ville de Créteil et de Saint-Maur-des-Fossés.<br><br>**Pourquoi ?** La coronapiste le long de la D86 a été supprimée pour fluidifier le trafic automobile.<br><br>[En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.47132297039,
-                        48.80584597443
-                    ],
-                    [
-                        2.47196670055,
-                        48.80234104277
-                    ],
-                    [
-                        2.47231002331,
-                        48.80123863460
-                    ],
-                    [
-                        2.47132297039,
-                        48.79985352332
-                    ],
-                    [
-                        2.46922792784,
-                        48.79966353693
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.43922231436,
-                        48.85075240353
-                    ],
-                    [
-                        2.43969436169,
-                        48.85082301578
-                    ],
-                    [
-                        2.45595927715,
-                        48.84972167364
+                        2.29923247218,
+                        48.79692061475
                     ]
                 ]
             }
@@ -142,6 +66,50 @@
             "type": "Feature",
             "properties": {
                 "name": "94 - D86",
+                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, sur demande des maires de Créteil et de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifie le trafic automobile. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.46922792784,
+                        48.79966353693
+                    ],
+                    [
+                        2.46614629696,
+                        48.79928427139
+                    ],
+                    [
+                        2.46553480089,
+                        48.79895951614
+                    ],
+                    [
+                        2.46407000000,
+                        48.79738000000
+                    ],
+                    [
+                        2.46342700000,
+                        48.79602300000
+                    ],
+                    [
+                        2.46110900000,
+                        48.79359200000
+                    ],
+                    [
+                        2.45286900000,
+                        48.79017100000
+                    ],
+                    [
+                        2.44365421499,
+                        48.77957374048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - D86",
                 "popup": "**D86 à Créteil.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** Pour fluidifier le trafic automobile."
             },
             "geometry": {
@@ -161,18 +129,22 @@
         {
             "type": "Feature",
             "properties": {
-                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département, sur demande de la ville de Fontenay.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.49222274303,
-                        48.85613170984
+                        2.49335999966,
+                        48.85392923489
                     ],
                     [
-                        2.49341400000,
-                        48.85393700000
+                        2.49046321392,
+                        48.85263029398
+                    ],
+                    [
+                        2.49589202642,
+                        48.84925569978
                     ]
                 ]
             }
@@ -180,30 +152,97 @@
         {
             "type": "Feature",
             "properties": {
-                "popup": "**D86 à Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département, à la demande de la ville de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifier le trafic automobile. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
+                "name": "Argenteuil - D122 Gabriel-Péri",
+                "popup": "**D122 à Argenteuil** <br><br>**Qui a supprimé la piste ?** La mairie d'Argenteuil. <br><br>**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.46711726665,
-                        48.81720705248
+                        2.24876399517,
+                        48.94649069171
                     ],
                     [
-                        2.46801848888,
-                        48.81423985511
+                        2.25413746041,
+                        48.94113239190
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "95 - D14",
+                "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Qui a supprimé la piste ?** Le département du Val-d'Oise.<br><br>**Pourquoi ?** L’abandon du projet de coronapiste entre Cergy et Saint-Gratien, et les embouteillages, ont mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.18748084068,
+                        48.99795857672
                     ],
                     [
-                        2.46896262646,
-                        48.81127248211
+                        2.19820967674,
+                        48.99260862035
                     ],
                     [
-                        2.47110839367,
-                        48.80985938562
+                        2.20430365562,
+                        48.98973630149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, à la demande de la ville de Créteil et de Saint-Maur-des-Fossés.<br><br>**Pourquoi ?** La coronapiste le long de la D86 a été supprimée pour fluidifier le trafic automobile.<br><br>[En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.47132297039,
+                        48.80584597443
                     ],
                     [
-                        2.47123713970,
-                        48.80742876650
+                        2.47196670055,
+                        48.80234104277
+                    ],
+                    [
+                        2.47231002331,
+                        48.80123863460
+                    ],
+                    [
+                        2.47132297039,
+                        48.79985352332
+                    ],
+                    [
+                        2.46922792784,
+                        48.79966353693
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**Rue Diderot à Vincennes**<br><br>**Qui a supprimé la piste ?** La mairie de Vincennes."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.43922231436,
+                        48.85075240353
+                    ],
+                    [
+                        2.43969436169,
+                        48.85082301578
+                    ],
+                    [
+                        2.45595927715,
+                        48.84972167364
                     ]
                 ]
             }
@@ -227,6 +266,57 @@
                     [
                         2.40549083233,
                         48.76436467764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Créteil - Général-de-Gaulle",
+                "popup": "**Rue du Général De Gaulle à Créteil.**<br><br>**Qui a supprimé la piste ?** Le territoire Grand Paris Sud-Est Avenir (GPSEA).<br><br>**Pourquoi ?** Pour \"permettre un meilleur partage de la chaussée\". <br><br> [En savoir plus](https://www.leparisien.fr/val-de-marne-94/creteil-a-l-echat-une-partie-de-la-coronapiste-reajustee-05-08-2020-8364021.php)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.45160300000,
+                        48.79862400000
+                    ],
+                    [
+                        2.44915700000,
+                        48.79866600000
+                    ],
+                    [
+                        2.44877100000,
+                        48.79852500000
+                    ],
+                    [
+                        2.44855600000,
+                        48.79829900000
+                    ],
+                    [
+                        2.44698999166,
+                        48.79408651232
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D86 a et D86 b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.49341400000,
+                        48.85393700000
+                    ],
+                    [
+                        2.49597275463,
+                        48.84923048947
                     ]
                 ]
             }
@@ -309,82 +399,8 @@
         {
             "type": "Feature",
             "properties": {
-                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département.<br><br>**Pourquoi ?** La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49335999966,
-                        48.85392923489
-                    ],
-                    [
-                        2.49046321392,
-                        48.85263029398
-                    ],
-                    [
-                        2.49589202642,
-                        48.84925569978
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "92 - D991 D913",
-                "popup": "**D86 à Puteaux.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, sur demande de la ville de Puteaux.<br><br>**Pourquoi ?** La piste a été remplacée par des pictogrammes vélo.<br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1300360266329317376?s=20)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.23466401321,
-                        48.88817933332
-                    ],
-                    [
-                        2.22813246489,
-                        48.88546055002
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Créteil - Général-de-Gaulle",
-                "popup": "**Rue du Général De Gaulle à Créteil.**<br><br>**Qui a supprimé la piste ?** Le territoire Grand Paris Sud-Est Avenir (GPSEA).<br><br>**Pourquoi ?** Pour \"permettre un meilleur partage de la chaussée\". <br><br> [En savoir plus](https://www.leparisien.fr/val-de-marne-94/creteil-a-l-echat-une-partie-de-la-coronapiste-reajustee-05-08-2020-8364021.php)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.45160300000,
-                        48.79862400000
-                    ],
-                    [
-                        2.44915700000,
-                        48.79866600000
-                    ],
-                    [
-                        2.44877100000,
-                        48.79852500000
-                    ],
-                    [
-                        2.44855600000,
-                        48.79829900000
-                    ],
-                    [
-                        2.44698999166,
-                        48.79408651232
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "92 - D7 D21 Puteaux"
+                "name": "92 - D7 D21 Puteaux",
+                "popup": "**D7 à Puteaux.**<br><br>**Qui a supprimé la piste ?** Le département des Hauts-de-Seine, sur demande de la ville de Puteaux.<br><br>**Pourquoi ?** La piste a été remplacée par des pictogrammes vélo.<br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1300360266329317376?s=20)"
             },
             "geometry": {
                 "type": "LineString",
@@ -403,19 +419,23 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Argenteuil - D122 Gabriel-Péri",
-                "popup": "**D122 à Argenteuil** <br><br>**Qui a supprimé la piste ?** La mairie d'Argenteuil. <br><br>**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
+                "name": "92 - D19 Genneviliers",
+                "popup": "**D19 à Gennevilliers.**<br><br>**Qui a supprimé la piste ?** Le département des Hauts-de-Seine.<br><br>**Pourquoi ?** La piste était peu fréquentée, sur un axe très emprunté par des poids lourds."
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.24876399517,
-                        48.94649069171
+                        2.28131530523,
+                        48.93400305637
                     ],
                     [
-                        2.25413746041,
-                        48.94113239190
+                        2.27894000000,
+                        48.93657400000
+                    ],
+                    [
+                        2.27842500000,
+                        48.93795600000
                     ]
                 ]
             }
@@ -423,23 +443,18 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "95 - D14",
-                "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Qui a supprimé la piste ?** Le département du Val-d'Oise.<br><br>**Pourquoi ?** L’abandon du projet de coronapiste entre Cergy et Saint-Gratien, et les embouteillages, ont mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)"
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.18748084068,
-                        48.99795857672
+                        2.49222274303,
+                        48.85613170984
                     ],
                     [
-                        2.19820967674,
-                        48.99260862035
-                    ],
-                    [
-                        2.20430365562,
-                        48.98973630149
+                        2.49341400000,
+                        48.85393700000
                     ]
                 ]
             }
@@ -447,18 +462,30 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Vallée Sud Grand Paris - D128"
+                "popup": "**D86 à Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, à la demande de la ville de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifier le trafic automobile. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.30095042706,
-                        48.79747628639
+                        2.46711726665,
+                        48.81720705248
                     ],
                     [
-                        2.29923247218,
-                        48.79692061475
+                        2.46801848888,
+                        48.81423985511
+                    ],
+                    [
+                        2.46896262646,
+                        48.81127248211
+                    ],
+                    [
+                        2.47110839367,
+                        48.80985938562
+                    ],
+                    [
+                        2.47123713970,
+                        48.80742876650
                     ]
                 ]
             }
@@ -466,43 +493,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - D86",
-                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département, sur demande des maires de Créteil et de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifie le trafic automobile. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
+                "name": "92 - D991 D913",
+                "popup": "**D913 à Puteaux.**<br><br>**Qui a supprimé la piste ?** Le département des Hauts-de-Seine, sur demande de la ville de Puteaux.<br><br>**Pourquoi ?** La piste était accusée de provoquer des embouteillages."
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.46922792784,
-                        48.79966353693
+                        2.23466401321,
+                        48.88817933332
                     ],
                     [
-                        2.46614629696,
-                        48.79928427139
-                    ],
-                    [
-                        2.46553480089,
-                        48.79895951614
-                    ],
-                    [
-                        2.46407000000,
-                        48.79738000000
-                    ],
-                    [
-                        2.46342700000,
-                        48.79602300000
-                    ],
-                    [
-                        2.46110900000,
-                        48.79359200000
-                    ],
-                    [
-                        2.45286900000,
-                        48.79017100000
-                    ],
-                    [
-                        2.44365421499,
-                        48.77957374048
+                        2.22813246489,
+                        48.88546055002
                     ]
                 ]
             }
