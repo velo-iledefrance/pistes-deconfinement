@@ -2528,6 +2528,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Paris - Avenue de la Porte-de-la-Villette"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.38628877920,
+                        48.89832192010
+                    ],
+                    [
+                        2.38553999830,
+                        48.89754786920
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Paris - Sud-nord Leclerc Denfert Saint-Michel"
             },
             "geometry": {
