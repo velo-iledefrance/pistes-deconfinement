@@ -3,5 +3,22 @@
     "type": "FeatureCollection",
     "generator": "JOSM",
     "features": [
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.13126178265,
+                        48.80519588464
+                    ],
+                    [
+                        2.13606830120,
+                        48.81325075029
+                    ]
+                ]
+            }
+        }
     ]
 }
