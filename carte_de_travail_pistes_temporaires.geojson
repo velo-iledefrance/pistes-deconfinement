@@ -4494,26 +4494,6 @@
         {
             "type": "Feature",
             "properties": {
-                "OBJECTID": "31",
-                "STATUT": "A venir"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.36911053320,
-                        48.82161441070
-                    ],
-                    [
-                        2.35987950770,
-                        48.82621880190
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - N2"
             },
             "geometry": {

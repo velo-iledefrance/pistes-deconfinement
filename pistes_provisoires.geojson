@@ -6090,6 +6090,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Paris - Ivry"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.36911053320,
+                        48.82161441070
+                    ],
+                    [
+                        2.35987950770,
+                        48.82621880190
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "objectid_1": "13",
                 "statut": "existant"
             },
