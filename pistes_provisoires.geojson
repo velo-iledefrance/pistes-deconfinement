@@ -7416,6 +7416,29 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Paris - Linois"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.28193758845,
+                        48.84914273213
+                    ],
+                    [
+                        2.28412627101,
+                        48.84768128153
+                    ],
+                    [
+                        2.28563903689,
+                        48.84677756126
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "CL_ADMIN": "DÃ©partementale",
                 "ID": "2",
                 "INSEECOM_G": "93048",
