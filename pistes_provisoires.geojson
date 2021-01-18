@@ -5711,23 +5711,6 @@
         },
         {
             "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.29908227384,
-                        48.91050982063
-                    ],
-                    [
-                        2.30006396636,
-                        48.90836791294
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "properties": {
                 "objectid_1": "32",
                 "statut": "existant"
