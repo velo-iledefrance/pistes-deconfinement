@@ -4286,6 +4286,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Paris - Porte de Montreuil André-Lemierre"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.41519778699,
+                        48.85515046451
+                    ],
+                    [
+                        2.41531580418,
+                        48.85438806535
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Colombes - D986 Bournard"
             },
             "geometry": {
