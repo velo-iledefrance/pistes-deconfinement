@@ -761,6 +761,25 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "name": "Paris - Porte de Montreuil Charles-et-Robert"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.41243779391,
+                        48.85321973671
+                    ],
+                    [
+                        2.41320124668,
+                        48.85366185988
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
@@ -1293,6 +1312,10 @@
                     [
                         2.41313516557,
                         48.85370683953
+                    ],
+                    [
+                        2.41320124668,
+                        48.85366185988
                     ],
                     [
                         2.41329073370,
@@ -3679,6 +3702,10 @@
                     [
                         2.41314717560,
                         48.85442694380
+                    ],
+                    [
+                        2.41306017105,
+                        48.85433399089
                     ],
                     [
                         2.41304480120,
@@ -6695,6 +6722,25 @@
                     [
                         2.18409100000,
                         48.92029300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Porte de Montreuil Mendelssohn"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.41212665498,
+                        48.85464926073
+                    ],
+                    [
+                        2.41306017105,
+                        48.85433399089
                     ]
                 ]
             }
