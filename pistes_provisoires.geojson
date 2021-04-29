@@ -7485,23 +7485,6 @@
         },
         {
             "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.31590500000,
-                        48.90079900000
-                    ],
-                    [
-                        2.31320100000,
-                        48.90298500000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "properties": {
                 "OBJECTID": "42",
                 "STATUT": "A venir"
