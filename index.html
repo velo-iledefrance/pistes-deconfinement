@@ -23,7 +23,7 @@
         <link rel="icon" type="image/png" sizes="32x32" href="https://carte.velo-iledefrance.fr/images/cropped-favicon_cvidf_rvb-32x32.png">
         <!--link rel="shortcut icon" href="https://carte.velo-iledefrance.fr/images/favicon.ico"-->
 
-        <title>Carte Collectif Vélo Ile-de-France</title>
+        <title>Carte Collectif Vélo Île-de-France</title>
 
         <link rel="stylesheet" href="css/leaflet.css">
         <link rel="stylesheet" href="css/Control.Geocoder.css">
@@ -220,20 +220,39 @@
                         "opacity": 1,
                     }
                 });
+                // Lanes made permanent or transformed into bus-bike lanes will be displayed as temporary lanes
+                var perenniseeLayer = new L.GeoJSON.AJAX(
+                   "pistes_perennisees.geojson",
+                   {
+                    style: {
+                        "color": "#F49F17",
+                        "weight": 3,
+                        "opacity": 1,
+                    }
+                });
+                var voiesBusLayer = new L.GeoJSON.AJAX(
+                   "pistes_transformees_voies_bus.geojson",
+                   {
+                    style: {
+                        "color": "#F49F17",
+                        "weight": 3,
+                        "opacity": 1,
+                    }
+                });
 
                 var queryDict = {}
                 location.search.substr(1).split("&").forEach(function(item) {queryDict[item.split("=")[0]] = item.split("=")[1]})
                 
                 var map = new L.Map('map', {
                     zoomControl: true,
-                    layers: [pianoFR, cyclosmLite, existantLayer, projetLayer, provisoireLayer],
+                    layers: [pianoFR, cyclosmLite, existantLayer, projetLayer, provisoireLayer, perenniseeLayer, voiesBusLayer],
                     scrollWheelZoom: queryDict['noZoom'] ? false : true
                 }).on('layeradd', function(event){
                     if (event.layer._url && event.layer._url.match(/cyclosm-lite/)) {
                         event.layer.getContainer().className += ' leaflet-layer-cyclosm-lite';
                     }
                 });
-                map.attributionControl.setPrefix('Par le <a href="https://velo-iledefrance.fr" title="Collectif Vélo Ile-de-France">CVIdF</a> | <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
+                map.attributionControl.setPrefix('Par le <a href="https://velo-iledefrance.fr" title="Collectif Vélo Île-de-France">Collectif Vélo Île-de-France</a> | <a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a>');
                 if (!map.restoreView()) {
                     // Default view on Paris
                     map.setView([48.8589, 2.3469], 11);
@@ -302,6 +321,8 @@
                     //"ExistantCasing": existantLayerCasing,
                     "Pistes cyclables temporaires en projet": projetLayer,
                     "Pistes cyclables temporaires": provisoireLayer,
+                    "Pistes cyclables pérennisées": perenniseeLayer,
+                    "Pistes temporaires transformées en voies ou couloirs bus": voiesBusLayer,
                     //"kosmtik": kosmtik
                 };
                 L.control.layers(baseMaps, overlayMaps, { collapsed: true }).addTo(map);
