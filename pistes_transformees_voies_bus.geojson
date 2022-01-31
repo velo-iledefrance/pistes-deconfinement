@@ -1,0 +1,26 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "93 - N3"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.41335604889,
+                        48.89314082137
+                    ],
+                    [
+                        2.42548940420,
+                        48.89546342972
+                    ]
+                ]
+            }
+        }
+    ]
+}
