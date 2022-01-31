@@ -606,6 +606,23 @@
                     ]
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.38941905737,
+                        48.90119055285
+                    ],
+                    [
+                        2.39190548390,
+                        48.90350377364
+                    ]
+                ]
+            }
         }
     ]
 }
