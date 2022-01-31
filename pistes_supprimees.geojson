@@ -6,6 +6,377 @@
         {
             "type": "Feature",
             "properties": {
+                "popup": "**D19 à Créteil.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, à la demande de la ville de Créteil.<br><br>**Pourquoi ?** Il existe déjà une piste sur le trottoir, et il n'y avait pas de continuité avec Maisons-Alfort.",
+                "name": "Créteil - Général-de-Gaulle"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.44948199482,
+                        48.80126926046
+                    ],
+                    [
+                        2.45617400000,
+                        48.79773300000
+                    ],
+                    [
+                        2.46114152513,
+                        48.79356313576
+                    ],
+                    [
+                        2.46208544048,
+                        48.79150693183
+                    ],
+                    [
+                        2.46279325264,
+                        48.79074367028
+                    ],
+                    [
+                        2.46375917315,
+                        48.79014958377
+                    ],
+                    [
+                        2.46698900000,
+                        48.78868600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.29870140016,
+                        48.91121495447
+                    ],
+                    [
+                        2.30006396636,
+                        48.90836791294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D7 à Puteaux.**<br><br>**Qui a supprimé la piste ?** Le département des Hauts-de-Seine, sur demande de la ville de Puteaux.<br><br>**Pourquoi ?** La piste a été remplacée par des pictogrammes vélo.<br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1300360266329317376?s=20)",
+                "name": "92 - D7 D21 Puteaux"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.24432229728,
+                        48.88001384081
+                    ],
+                    [
+                        2.24250644177,
+                        48.87851272002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "93 - N186 nord"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.39733700000,
+                        48.92554500000
+                    ],
+                    [
+                        2.39900528848,
+                        48.92517807987
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - D7"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.36778972387,
+                        48.77205839988
+                    ],
+                    [
+                        2.36825400000,
+                        48.76386500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D913 à Puteaux.**<br><br>**Qui a supprimé la piste ?** Le département des Hauts-de-Seine, sur demande de la ville de Puteaux.<br><br>**Pourquoi ?** La piste était accusée de provoquer des embouteillages.",
+                "name": "92 - D991 D913"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.23466401321,
+                        48.88817933332
+                    ],
+                    [
+                        2.22813246489,
+                        48.88546055002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D19 à Gennevilliers.**<br><br>**Qui a supprimé la piste ?** Le département des Hauts-de-Seine.<br><br>**Pourquoi ?** La piste était peu fréquentée, sur un axe très emprunté par des poids lourds.",
+                "name": "92 - D19 Genneviliers"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.28131530523,
+                        48.93400305637
+                    ],
+                    [
+                        2.27894000000,
+                        48.93657400000
+                    ],
+                    [
+                        2.27842500000,
+                        48.93795600000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "93 - N186 est"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.48595700000,
+                        48.87755800000
+                    ],
+                    [
+                        2.48617708147,
+                        48.87646470409
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D86 à Choisy-le-Roi.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** Pour fluidifier le trafic automobile."
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.41337656438,
+                        48.76664885391
+                    ],
+                    [
+                        2.41043686599,
+                        48.76588510609
+                    ],
+                    [
+                        2.40549083233,
+                        48.76436467764
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**Rue du Général De Gaulle à Créteil.**<br><br>**Qui a supprimé la piste ?** Le territoire Grand Paris Sud-Est Avenir (GPSEA).<br><br>**Pourquoi ?** Pour \"permettre un meilleur partage de la chaussée\". <br><br> [En savoir plus](https://www.leparisien.fr/val-de-marne-94/creteil-a-l-echat-une-partie-de-la-coronapiste-reajustee-05-08-2020-8364021.php)",
+                "name": "Créteil - Général-de-Gaulle"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.45160300000,
+                        48.79862400000
+                    ],
+                    [
+                        2.44915700000,
+                        48.79866600000
+                    ],
+                    [
+                        2.44877100000,
+                        48.79852500000
+                    ],
+                    [
+                        2.44855600000,
+                        48.79829900000
+                    ],
+                    [
+                        2.44698999166,
+                        48.79408651232
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D86 à Créteil.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** Pour fluidifier le trafic automobile.",
+                "name": "94 - D86"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.43877659602,
+                        48.77421124136
+                    ],
+                    [
+                        2.43440781327,
+                        48.77288527005
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.38832465172,
+                        48.75703758924
+                    ],
+                    [
+                        2.39931097984,
+                        48.76030521927
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.22532152593,
+                        48.84137960763
+                    ],
+                    [
+                        2.22583114564,
+                        48.84310249599
+                    ],
+                    [
+                        2.22587942004,
+                        48.84326136944
+                    ],
+                    [
+                        2.22713469386,
+                        48.84673519898
+                    ],
+                    [
+                        2.22726343989,
+                        48.84719412185
+                    ],
+                    [
+                        2.22727416873,
+                        48.84879678874
+                    ],
+                    [
+                        2.22705959201,
+                        48.84980637194
+                    ],
+                    [
+                        2.22671626925,
+                        48.85073827683
+                    ],
+                    [
+                        2.22658752322,
+                        48.85112656542
+                    ],
+                    [
+                        2.22627638698,
+                        48.85248202196
+                    ],
+                    [
+                        2.22628711581,
+                        48.85280676131
+                    ],
+                    [
+                        2.22630857348,
+                        48.85288441606
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - D86",
+                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, sur demande des maires de Créteil et de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifie le trafic automobile. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.46922792784,
+                        48.79966353693
+                    ],
+                    [
+                        2.46614629696,
+                        48.79928427139
+                    ],
+                    [
+                        2.46553480089,
+                        48.79895951614
+                    ],
+                    [
+                        2.46407000000,
+                        48.79738000000
+                    ],
+                    [
+                        2.46342700000,
+                        48.79602300000
+                    ],
+                    [
+                        2.46110900000,
+                        48.79359200000
+                    ],
+                    [
+                        2.45286900000,
+                        48.79017100000
+                    ],
+                    [
+                        2.44365421499,
+                        48.77957374048
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "popup": "**D186 entre Le Vésinet et Chatou** <br><br>**Qui a supprimé la piste ?** Le département des Yvelines. <br><br>**Pourquoi ?** La piste a été supprimée fin mai après deux semaines d’existence, car elle était accusée de créer trop d'embouteillages. <br><br> [En savoir plus](https://www.leparisien.fr/yvelines-78/retropedalage-sur-la-piste-cyclable-temporaire-entre-le-pecq-et-chatou-24-05-2020-8322564.php)"
             },
             "geometry": {
@@ -104,69 +475,6 @@
         {
             "type": "Feature",
             "properties": {
-                "popup": "**D7 à Puteaux.**<br><br>**Qui a supprimé la piste ?** Le département des Hauts-de-Seine, sur demande de la ville de Puteaux.<br><br>**Pourquoi ?** La piste a été remplacée par des pictogrammes vélo.<br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1300360266329317376?s=20)",
-                "name": "92 - D7 D21 Puteaux"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.24432229728,
-                        48.88001384081
-                    ],
-                    [
-                        2.24250644177,
-                        48.87851272002
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**D86 à Choisy-le-Roi.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** Pour fluidifier le trafic automobile."
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.41337656438,
-                        48.76664885391
-                    ],
-                    [
-                        2.41043686599,
-                        48.76588510609
-                    ],
-                    [
-                        2.40549083233,
-                        48.76436467764
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Argenteuil - D122 Gabriel-Péri",
-                "popup": "**D122 à Argenteuil** <br><br>**Qui a supprimé la piste ?** La mairie d'Argenteuil. <br><br>**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.24876399517,
-                        48.94649069171
-                    ],
-                    [
-                        2.25413746041,
-                        48.94113239190
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?**La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
             },
             "geometry": {
@@ -179,120 +487,6 @@
                     [
                         2.49341400000,
                         48.85393700000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "93 - N186 nord"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.39733700000,
-                        48.92554500000
-                    ],
-                    [
-                        2.39900528848,
-                        48.92517807987
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**Rue du Général De Gaulle à Créteil.**<br><br>**Qui a supprimé la piste ?** Le territoire Grand Paris Sud-Est Avenir (GPSEA).<br><br>**Pourquoi ?** Pour \"permettre un meilleur partage de la chaussée\". <br><br> [En savoir plus](https://www.leparisien.fr/val-de-marne-94/creteil-a-l-echat-une-partie-de-la-coronapiste-reajustee-05-08-2020-8364021.php)",
-                "name": "Créteil - Général-de-Gaulle"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.45160300000,
-                        48.79862400000
-                    ],
-                    [
-                        2.44915700000,
-                        48.79866600000
-                    ],
-                    [
-                        2.44877100000,
-                        48.79852500000
-                    ],
-                    [
-                        2.44855600000,
-                        48.79829900000
-                    ],
-                    [
-                        2.44698999166,
-                        48.79408651232
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49335999966,
-                        48.85392923489
-                    ],
-                    [
-                        2.49046321392,
-                        48.85263029398
-                    ],
-                    [
-                        2.49589202642,
-                        48.84925569978
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**D19 à Créteil.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, à la demande de la ville de Créteil.<br><br>**Pourquoi ?** Il existe déjà une piste sur le trottoir, et il n'y avait pas de continuité avec Maisons-Alfort.",
-                "name": "Créteil - Général-de-Gaulle"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.44948199482,
-                        48.80126926046
-                    ],
-                    [
-                        2.45617400000,
-                        48.79773300000
-                    ],
-                    [
-                        2.46114152513,
-                        48.79356313576
-                    ],
-                    [
-                        2.46208544048,
-                        48.79150693183
-                    ],
-                    [
-                        2.46279325264,
-                        48.79074367028
-                    ],
-                    [
-                        2.46375917315,
-                        48.79014958377
-                    ],
-                    [
-                        2.46698900000,
-                        48.78868600000
                     ]
                 ]
             }
@@ -331,6 +525,54 @@
         {
             "type": "Feature",
             "properties": {
+                "description": "(Tracé précis inconnu)",
+                "name": "93 - N370 sud D75"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.53890955061,
+                        48.84805190349
+                    ],
+                    [
+                        2.53979491534,
+                        48.84745846986
+                    ],
+                    [
+                        2.54024584255,
+                        48.84729300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Qui a supprimé la piste ?** Le département du Val-d'Oise.<br><br>**Pourquoi ?** L’abandon du projet de coronapiste entre Cergy et Saint-Gratien, et les embouteillages, ont mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)",
+                "name": "95 - D14"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.18748084068,
+                        48.99795857672
+                    ],
+                    [
+                        2.19820967674,
+                        48.99260862035
+                    ],
+                    [
+                        2.20430365562,
+                        48.98973630149
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "93 - N186 nord"
             },
             "geometry": {
@@ -355,79 +597,6 @@
                     [
                         2.39733700000,
                         48.92554500000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**D86 à Créteil.**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** Pour fluidifier le trafic automobile.",
-                "name": "94 - D86"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.43877659602,
-                        48.77421124136
-                    ],
-                    [
-                        2.43440781327,
-                        48.77288527005
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.38832465172,
-                        48.75703758924
-                    ],
-                    [
-                        2.39931097984,
-                        48.76030521927
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.29870140016,
-                        48.91121495447
-                    ],
-                    [
-                        2.30006396636,
-                        48.90836791294
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "94 - D7"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.36778972387,
-                        48.77205839988
-                    ],
-                    [
-                        2.36825400000,
-                        48.76386500000
                     ]
                 ]
             }
@@ -484,107 +653,6 @@
         },
         {
             "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.22532152593,
-                        48.84137960763
-                    ],
-                    [
-                        2.22583114564,
-                        48.84310249599
-                    ],
-                    [
-                        2.22587942004,
-                        48.84326136944
-                    ],
-                    [
-                        2.22713469386,
-                        48.84673519898
-                    ],
-                    [
-                        2.22726343989,
-                        48.84719412185
-                    ],
-                    [
-                        2.22727416873,
-                        48.84879678874
-                    ],
-                    [
-                        2.22705959201,
-                        48.84980637194
-                    ],
-                    [
-                        2.22671626925,
-                        48.85073827683
-                    ],
-                    [
-                        2.22658752322,
-                        48.85112656542
-                    ],
-                    [
-                        2.22627638698,
-                        48.85248202196
-                    ],
-                    [
-                        2.22628711581,
-                        48.85280676131
-                    ],
-                    [
-                        2.22630857348,
-                        48.85288441606
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "93 - N370 sud D75",
-                "description": "(Tracé précis inconnu)"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.53890955061,
-                        48.84805190349
-                    ],
-                    [
-                        2.53979491534,
-                        48.84745846986
-                    ],
-                    [
-                        2.54024584255,
-                        48.84729300000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**D913 à Puteaux.**<br><br>**Qui a supprimé la piste ?** Le département des Hauts-de-Seine, sur demande de la ville de Puteaux.<br><br>**Pourquoi ?** La piste était accusée de provoquer des embouteillages.",
-                "name": "92 - D991 D913"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.23466401321,
-                        48.88817933332
-                    ],
-                    [
-                        2.22813246489,
-                        48.88546055002
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "properties": {
                 "popup": "**D86 a et D86 b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
             },
@@ -605,43 +673,19 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - D86",
-                "popup": "**D86 entre Choisy-le-Roi et Saint-Maur**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne, sur demande des maires de Créteil et de Saint-Maur-des-Fossés. <br><br>**Pourquoi ?**La coronapiste le long de la D86 a été supprimée pour fluidifie le trafic automobile. <br><br> [En savoir plus](https://94.citoyens.com/2020/creteil-et-saint-maur-sonnent-le-glas-des-coronapistes,10-09-2020.html)"
+                "name": "Argenteuil - D122 Gabriel-Péri",
+                "popup": "**D122 à Argenteuil** <br><br>**Qui a supprimé la piste ?** La mairie d'Argenteuil. <br><br>**Pourquoi ?** La piste a été supprimée au bout de trois jours car elle était trop empruntée par les deux-roues motorisés. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/argenteuil-la-piste-cyclable-supprimee-au-bout-de-trois-jours-31-05-2020-8327316.php)"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.46922792784,
-                        48.79966353693
+                        2.24876399517,
+                        48.94649069171
                     ],
                     [
-                        2.46614629696,
-                        48.79928427139
-                    ],
-                    [
-                        2.46553480089,
-                        48.79895951614
-                    ],
-                    [
-                        2.46407000000,
-                        48.79738000000
-                    ],
-                    [
-                        2.46342700000,
-                        48.79602300000
-                    ],
-                    [
-                        2.46110900000,
-                        48.79359200000
-                    ],
-                    [
-                        2.45286900000,
-                        48.79017100000
-                    ],
-                    [
-                        2.44365421499,
-                        48.77957374048
+                        2.25413746041,
+                        48.94113239190
                     ]
                 ]
             }
@@ -649,66 +693,18 @@
         {
             "type": "Feature",
             "properties": {
-                "popup": "**D14 à Montigny-lès-Cormeilles**<br><br>**Qui a supprimé la piste ?** Le département du Val-d'Oise.<br><br>**Pourquoi ?** L’abandon du projet de coronapiste entre Cergy et Saint-Gratien, et les embouteillages, ont mené à l’effacement de la piste à Montigny-lès-Cormeilles dès le 17 mai. <br><br> [En savoir plus](https://www.leparisien.fr/val-d-oise-95/montigny-les-cormeilles-une-piste-cyclable-effacee-18-05-2020-8319438.php)",
-                "name": "95 - D14"
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.18748084068,
-                        48.99795857672
+                        2.49335999966,
+                        48.85392923489
                     ],
                     [
-                        2.19820967674,
-                        48.99260862035
-                    ],
-                    [
-                        2.20430365562,
-                        48.98973630149
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "popup": "**D19 à Gennevilliers.**<br><br>**Qui a supprimé la piste ?** Le département des Hauts-de-Seine.<br><br>**Pourquoi ?** La piste était peu fréquentée, sur un axe très emprunté par des poids lourds.",
-                "name": "92 - D19 Genneviliers"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.28131530523,
-                        48.93400305637
-                    ],
-                    [
-                        2.27894000000,
-                        48.93657400000
-                    ],
-                    [
-                        2.27842500000,
-                        48.93795600000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "93 - N186 est"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.48595700000,
-                        48.87755800000
-                    ],
-                    [
-                        2.48617708147,
-                        48.87646470409
+                        2.49046321392,
+                        48.85263029398
                     ]
                 ]
             }

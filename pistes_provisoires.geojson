@@ -171,6 +171,25 @@
         {
             "type": "Feature",
             "properties": {
+                "popup": "**D86a et D86b à Fontenay-sous-Bois**<br><br>**Qui a supprimé la piste ?** Le département du Val-de-Marne.<br><br>**Pourquoi ?** La coronapiste n'était pas assez fréquentée. <br><br> [En savoir plus](https://twitter.com/VeloIdF/status/1301460644777078785)"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.49046321392,
+                        48.85263029398
+                    ],
+                    [
+                        2.49589202642,
+                        48.84925569978
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "92 - D991 D913"
             },
             "geometry": {
