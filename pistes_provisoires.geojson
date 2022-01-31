@@ -3545,6 +3545,23 @@
         },
         {
             "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.26451394796,
+                        48.89663429890
+                    ],
+                    [
+                        2.26760385275,
+                        48.89357305294
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "name": "Issy-les-Moulineaux - Frères-Voisins Gambetta"
             },
