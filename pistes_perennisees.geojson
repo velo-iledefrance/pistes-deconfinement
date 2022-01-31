@@ -10,31 +10,6 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.43507027492,
-                        48.85827317880
-                    ],
-                    [
-                        2.43356286943,
-                        48.85841523874
-                    ],
-                    [
-                        2.43168532312,
-                        48.85852817841
-                    ],
-                    [
-                        2.42928743295,
-                        48.85860538002
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
                         2.13126178265,
                         48.80519588464
                     ],
@@ -47,39 +22,29 @@
         },
         {
             "type": "Feature",
-            "properties": {
-                "CL_ADMIN": "DÃ©partementale",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "5.5",
-                "NATURE": "Route Ã  1 chaussÃ©e",
-                "NOM_VOIE_G": "BD HENRI BARBUSSE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "237.9",
-                "type_amgt": "Piste cyclable"
-            },
+            "properties": null,
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.44218920000,
-                        48.86732774169
+                        2.40277646899,
+                        48.89126640724
                     ],
                     [
-                        2.44220860000,
-                        48.86729724169
+                        2.40442335069,
+                        48.89141806671
                     ],
                     [
-                        2.44260920000,
-                        48.86667414169
+                        2.40615605772,
+                        48.89173902641
                     ],
                     [
-                        2.44336740000,
-                        48.86550224169
+                        2.40858073711,
+                        48.89220461537
                     ],
                     [
-                        2.44347390000,
-                        48.86536334169
+                        2.41334434032,
+                        48.89313573089
                     ]
                 ]
             }
@@ -87,34 +52,107 @@
         {
             "type": "Feature",
             "properties": {
-                "CL_ADMIN": "DÃ©partementale",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "9.0",
-                "NATURE": "Route Ã  1 chaussÃ©e",
-                "NOM_VOIE_G": "BD PAUL VAILLANT COUTURIER",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "396.5",
-                "type_amgt": "Piste cyclable"
+                "STATUT": "A venir",
+                "OBJECTID": "39"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.44356800000,
-                        48.86535204169
+                        2.36881969213,
+                        48.86635217008
                     ],
                     [
-                        2.44513050000,
-                        48.86672994169
+                        2.36571909600,
+                        48.86693219910
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LARGEUR": "5.5",
+                "INSEECOM_G": "93048",
+                "type_amgt": "Piste cyclable",
+                "CL_ADMIN": "DÃ©partementale",
+                "longueur": "483.5",
+                "amgt_covid": "Pistes d'urgence",
+                "NATURE": "Route Ã  1 chaussÃ©e",
+                "ID": "2",
+                "NOM_VOIE_G": "BD HENRI BARBUSSE"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.43964670088,
+                        48.87139433564
                     ],
                     [
-                        2.44655920000,
-                        48.86800544169
+                        2.43966290000,
+                        48.87128294169
                     ],
                     [
-                        2.44682440000,
-                        48.86819734169
+                        2.43968520000,
+                        48.87123534169
+                    ],
+                    [
+                        2.43992930000,
+                        48.87085074169
+                    ],
+                    [
+                        2.44044240000,
+                        48.87004284169
+                    ],
+                    [
+                        2.44083900000,
+                        48.86941694169
+                    ],
+                    [
+                        2.44107340000,
+                        48.86904754169
+                    ],
+                    [
+                        2.44135620000,
+                        48.86860364169
+                    ],
+                    [
+                        2.44144950000,
+                        48.86841974169
+                    ],
+                    [
+                        2.44155290000,
+                        48.86831764169
+                    ],
+                    [
+                        2.44164020000,
+                        48.86817954169
+                    ],
+                    [
+                        2.44215450000,
+                        48.86738154169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.39881216943,
+                        48.89028234658
+                    ],
+                    [
+                        2.40170358539,
+                        48.89099835059
+                    ],
+                    [
+                        2.40277646899,
+                        48.89126640724
                     ]
                 ]
             }
@@ -175,96 +213,19 @@
         },
         {
             "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.40277646899,
-                        48.89126640724
-                    ],
-                    [
-                        2.40442335069,
-                        48.89141806671
-                    ],
-                    [
-                        2.40615605772,
-                        48.89173902641
-                    ],
-                    [
-                        2.40858073711,
-                        48.89220461537
-                    ],
-                    [
-                        2.41334434032,
-                        48.89313573089
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
             "properties": {
-                "CL_ADMIN": "DÃ©partementale",
-                "ID": "2",
-                "INSEECOM_G": "93048",
-                "LARGEUR": "5.5",
-                "NATURE": "Route Ã  1 chaussÃ©e",
-                "NOM_VOIE_G": "BD HENRI BARBUSSE",
-                "amgt_covid": "Pistes d'urgence",
-                "longueur": "483.5",
-                "type_amgt": "Piste cyclable"
+                "name": "Clichy - Général-Leclerc"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.43964670088,
-                        48.87139433564
+                        2.31590500000,
+                        48.90079900000
                     ],
                     [
-                        2.43966290000,
-                        48.87128294169
-                    ],
-                    [
-                        2.43968520000,
-                        48.87123534169
-                    ],
-                    [
-                        2.43992930000,
-                        48.87085074169
-                    ],
-                    [
-                        2.44044240000,
-                        48.87004284169
-                    ],
-                    [
-                        2.44083900000,
-                        48.86941694169
-                    ],
-                    [
-                        2.44107340000,
-                        48.86904754169
-                    ],
-                    [
-                        2.44135620000,
-                        48.86860364169
-                    ],
-                    [
-                        2.44144950000,
-                        48.86841974169
-                    ],
-                    [
-                        2.44155290000,
-                        48.86831764169
-                    ],
-                    [
-                        2.44164020000,
-                        48.86817954169
-                    ],
-                    [
-                        2.44215450000,
-                        48.86738154169
+                        2.31320100000,
+                        48.90298500000
                     ]
                 ]
             }
@@ -272,15 +233,89 @@
         {
             "type": "Feature",
             "properties": {
-                "CL_ADMIN": "DÃ©partementale",
-                "ID": "2",
+                "LARGEUR": "5.5",
+                "longueur": "237.9",
                 "INSEECOM_G": "93048",
-                "LARGEUR": "7.0",
-                "NATURE": "Route Ã  2 chaussÃ©es",
-                "NOM_VOIE_G": "BD ARISTIDE BRIAND",
+                "type_amgt": "Piste cyclable",
+                "CL_ADMIN": "DÃ©partementale",
                 "amgt_covid": "Pistes d'urgence",
+                "NATURE": "Route Ã  1 chaussÃ©e",
+                "ID": "2",
+                "NOM_VOIE_G": "BD HENRI BARBUSSE"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.44218920000,
+                        48.86732774169
+                    ],
+                    [
+                        2.44220860000,
+                        48.86729724169
+                    ],
+                    [
+                        2.44260920000,
+                        48.86667414169
+                    ],
+                    [
+                        2.44336740000,
+                        48.86550224169
+                    ],
+                    [
+                        2.44347390000,
+                        48.86536334169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LARGEUR": "9.0",
+                "longueur": "396.5",
+                "INSEECOM_G": "93048",
+                "type_amgt": "Piste cyclable",
+                "NOM_VOIE_G": "BD PAUL VAILLANT COUTURIER",
+                "CL_ADMIN": "DÃ©partementale",
+                "amgt_covid": "Pistes d'urgence",
+                "NATURE": "Route Ã  1 chaussÃ©e",
+                "ID": "2"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.44356800000,
+                        48.86535204169
+                    ],
+                    [
+                        2.44513050000,
+                        48.86672994169
+                    ],
+                    [
+                        2.44655920000,
+                        48.86800544169
+                    ],
+                    [
+                        2.44682440000,
+                        48.86819734169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "NATURE": "Route Ã  2 chaussÃ©es",
+                "INSEECOM_G": "93048",
+                "type_amgt": "Piste cyclable",
+                "CL_ADMIN": "DÃ©partementale",
                 "longueur": "1439.0",
-                "type_amgt": "Piste cyclable"
+                "amgt_covid": "Pistes d'urgence",
+                "LARGEUR": "7.0",
+                "ID": "2",
+                "NOM_VOIE_G": "BD ARISTIDE BRIAND"
             },
             "geometry": {
                 "type": "LineString",
@@ -482,16 +517,41 @@
         },
         {
             "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.43507027492,
+                        48.85827317880
+                    ],
+                    [
+                        2.43356286943,
+                        48.85841523874
+                    ],
+                    [
+                        2.43168532312,
+                        48.85852817841
+                    ],
+                    [
+                        2.42928743295,
+                        48.85860538002
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "CL_ADMIN": "Autre",
-                "ID": "2",
                 "INSEECOM_G": "93048",
-                "LARGEUR": "4.0",
-                "NATURE": "Route Ã  1 chaussÃ©e",
-                "NOM_VOIE_G": "R MARCEAU",
+                "type_amgt": "Piste cyclable",
                 "amgt_covid": "Pistes d'urgence",
                 "longueur": "570.6",
-                "type_amgt": "Piste cyclable"
+                "NATURE": "Route Ã  1 chaussÃ©e",
+                "ID": "2",
+                "LARGEUR": "4.0",
+                "NOM_VOIE_G": "R MARCEAU"
             },
             "geometry": {
                 "type": "LineString",
@@ -543,46 +603,6 @@
                     [
                         2.42597124439,
                         48.85408343113
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Clichy - Général-Leclerc"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.31590500000,
-                        48.90079900000
-                    ],
-                    [
-                        2.31320100000,
-                        48.90298500000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.39881216943,
-                        48.89028234658
-                    ],
-                    [
-                        2.40170358539,
-                        48.89099835059
-                    ],
-                    [
-                        2.40277646899,
-                        48.89126640724
                     ]
                 ]
             }
