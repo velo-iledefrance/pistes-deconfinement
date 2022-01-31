@@ -329,25 +329,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - D86 Nogent"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49596706746,
-                        48.84923754950
-                    ],
-                    [
-                        2.49472782097,
-                        48.84850742552
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Paris - Avenue de la Porte-de-Saint-Cloud"
             },
             "geometry": {
@@ -1350,25 +1331,6 @@
                     [
                         2.31195686102,
                         48.89518128847
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "94 - D86 Nogent"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.49472782097,
-                        48.84850742552
-                    ],
-                    [
-                        2.48672957897,
-                        48.84384743974
                     ]
                 ]
             }
@@ -4640,25 +4602,6 @@
                     [
                         2.08817837764,
                         49.03178787959
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "94 - N34"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.51099828836,
-                        48.85232625173
-                    ],
-                    [
-                        2.49597779630,
-                        48.84923401949
                     ]
                 ]
             }
