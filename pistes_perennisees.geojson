@@ -556,6 +556,30 @@
         {
             "type": "Feature",
             "properties": {
+                "STATUT": "A venir",
+                "OBJECTID": "8"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.31911453121,
+                        48.86269921864
+                    ],
+                    [
+                        2.32035779326,
+                        48.86437251010
+                    ],
+                    [
+                        2.32144348750,
+                        48.86405756903
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "LARGEUR": "5.5",
                 "longueur": "237.9",
                 "INSEECOM_G": "93048",
