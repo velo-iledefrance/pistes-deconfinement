@@ -5,17 +5,58 @@
     "features": [
         {
             "type": "Feature",
-            "properties": null,
+            "properties": {
+                "name": "Montreuil - Résistance Pasteur"
+            },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.13126178265,
-                        48.80519588464
+                        2.43106800000,
+                        48.87105200000
                     ],
                     [
-                        2.13589663982,
-                        48.81295401504
+                        2.43184100000,
+                        48.87043100000
+                    ],
+                    [
+                        2.43285432737,
+                        48.86916850584
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LARGEUR": "9.0",
+                "INSEECOM_G": "93048",
+                "longueur": "396.5",
+                "CL_ADMIN": "DÃ©partementale",
+                "NOM_VOIE_G": "BD PAUL VAILLANT COUTURIER",
+                "type_amgt": "Piste cyclable",
+                "amgt_covid": "Pistes d'urgence",
+                "ID": "2",
+                "NATURE": "Route Ã  1 chaussÃ©e"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.44356800000,
+                        48.86535204169
+                    ],
+                    [
+                        2.44513050000,
+                        48.86672994169
+                    ],
+                    [
+                        2.44655920000,
+                        48.86800544169
+                    ],
+                    [
+                        2.44682440000,
+                        48.86819734169
                     ]
                 ]
             }
@@ -52,86 +93,66 @@
         {
             "type": "Feature",
             "properties": {
-                "STATUT": "A venir",
-                "OBJECTID": "39"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.36881969213,
-                        48.86635217008
-                    ],
-                    [
-                        2.36571909600,
-                        48.86693219910
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "LARGEUR": "5.5",
+                "CL_ADMIN": "Autre",
                 "INSEECOM_G": "93048",
                 "type_amgt": "Piste cyclable",
-                "CL_ADMIN": "DÃ©partementale",
-                "longueur": "483.5",
                 "amgt_covid": "Pistes d'urgence",
-                "NATURE": "Route Ã  1 chaussÃ©e",
+                "longueur": "570.6",
                 "ID": "2",
-                "NOM_VOIE_G": "BD HENRI BARBUSSE"
+                "NATURE": "Route Ã  1 chaussÃ©e",
+                "LARGEUR": "4.0",
+                "NOM_VOIE_G": "R MARCEAU"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.43964670088,
-                        48.87139433564
+                        2.42634600000,
+                        48.84901424170
                     ],
                     [
-                        2.43966290000,
-                        48.87128294169
+                        2.42647080000,
+                        48.84906244170
                     ],
                     [
-                        2.43968520000,
-                        48.87123534169
+                        2.42649580000,
+                        48.84914354170
                     ],
                     [
-                        2.43992930000,
-                        48.87085074169
+                        2.42650060000,
+                        48.84920384170
                     ],
                     [
-                        2.44044240000,
-                        48.87004284169
+                        2.42647674007,
+                        48.84974327725
                     ],
                     [
-                        2.44083900000,
-                        48.86941694169
+                        2.42633710000,
+                        48.85068604170
                     ],
                     [
-                        2.44107340000,
-                        48.86904754169
+                        2.42629279318,
+                        48.85109525185
                     ],
                     [
-                        2.44135620000,
-                        48.86860364169
+                        2.42617530000,
+                        48.85226184170
                     ],
                     [
-                        2.44144950000,
-                        48.86841974169
+                        2.42608840000,
+                        48.85297734170
                     ],
                     [
-                        2.44155290000,
-                        48.86831764169
+                        2.42602710000,
+                        48.85347164170
                     ],
                     [
-                        2.44164020000,
-                        48.86817954169
+                        2.42597130000,
+                        48.85408294170
                     ],
                     [
-                        2.44215450000,
-                        48.86738154169
+                        2.42597124439,
+                        48.85408343113
                     ]
                 ]
             }
@@ -160,53 +181,18 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Montreuil - Résistance Pasteur"
+                "name": "Paris - Faubourg-Saint-Antoine"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.43438855093,
-                        48.86727978149
+                        2.38472000000,
+                        48.85014500000
                     ],
                     [
-                        2.43673300000,
-                        48.86286600000
-                    ],
-                    [
-                        2.43714100000,
-                        48.86118600000
-                    ],
-                    [
-                        2.43720500000,
-                        48.86042300000
-                    ],
-                    [
-                        2.43645400000,
-                        48.85816500000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Montreuil - Résistance Pasteur"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.43106800000,
-                        48.87105200000
-                    ],
-                    [
-                        2.43184100000,
-                        48.87043100000
-                    ],
-                    [
-                        2.43285432737,
-                        48.86916850584
+                        2.39436700000,
+                        48.84860300000
                     ]
                 ]
             }
@@ -233,108 +219,13 @@
         {
             "type": "Feature",
             "properties": {
-                "LARGEUR": "5.5",
-                "longueur": "237.9",
-                "INSEECOM_G": "93048",
-                "type_amgt": "Piste cyclable",
-                "CL_ADMIN": "DÃ©partementale",
-                "amgt_covid": "Pistes d'urgence",
-                "NATURE": "Route Ã  1 chaussÃ©e",
-                "ID": "2",
-                "NOM_VOIE_G": "BD HENRI BARBUSSE"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.44218920000,
-                        48.86732774169
-                    ],
-                    [
-                        2.44220860000,
-                        48.86729724169
-                    ],
-                    [
-                        2.44260920000,
-                        48.86667414169
-                    ],
-                    [
-                        2.44336740000,
-                        48.86550224169
-                    ],
-                    [
-                        2.44347390000,
-                        48.86536334169
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.32383503437,
-                        48.86631069949
-                    ],
-                    [
-                        2.32446669459,
-                        48.86617572226
-                    ],
-                    [
-                        2.33206271589,
-                        48.86371959874
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "LARGEUR": "9.0",
-                "longueur": "396.5",
-                "INSEECOM_G": "93048",
-                "type_amgt": "Piste cyclable",
-                "NOM_VOIE_G": "BD PAUL VAILLANT COUTURIER",
-                "CL_ADMIN": "DÃ©partementale",
-                "amgt_covid": "Pistes d'urgence",
-                "NATURE": "Route Ã  1 chaussÃ©e",
-                "ID": "2"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.44356800000,
-                        48.86535204169
-                    ],
-                    [
-                        2.44513050000,
-                        48.86672994169
-                    ],
-                    [
-                        2.44655920000,
-                        48.86800544169
-                    ],
-                    [
-                        2.44682440000,
-                        48.86819734169
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "NATURE": "Route Ã  2 chaussÃ©es",
                 "INSEECOM_G": "93048",
-                "type_amgt": "Piste cyclable",
                 "CL_ADMIN": "DÃ©partementale",
-                "longueur": "1439.0",
-                "amgt_covid": "Pistes d'urgence",
+                "type_amgt": "Piste cyclable",
                 "LARGEUR": "7.0",
+                "amgt_covid": "Pistes d'urgence",
+                "longueur": "1439.0",
                 "ID": "2",
                 "NOM_VOIE_G": "BD ARISTIDE BRIAND"
             },
@@ -538,6 +429,151 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "STATUT": "A venir",
+                "OBJECTID": "39"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.36881969213,
+                        48.86635217008
+                    ],
+                    [
+                        2.36571909600,
+                        48.86693219910
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.38941905737,
+                        48.90119055285
+                    ],
+                    [
+                        2.39190548390,
+                        48.90350377364
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Montreuil - Résistance Pasteur"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.43438855093,
+                        48.86727978149
+                    ],
+                    [
+                        2.43673300000,
+                        48.86286600000
+                    ],
+                    [
+                        2.43714100000,
+                        48.86118600000
+                    ],
+                    [
+                        2.43720500000,
+                        48.86042300000
+                    ],
+                    [
+                        2.43645400000,
+                        48.85816500000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32383503437,
+                        48.86631069949
+                    ],
+                    [
+                        2.32446669459,
+                        48.86617572226
+                    ],
+                    [
+                        2.33206271589,
+                        48.86371959874
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.13126178265,
+                        48.80519588464
+                    ],
+                    [
+                        2.13589663982,
+                        48.81295401504
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "LARGEUR": "5.5",
+                "longueur": "237.9",
+                "INSEECOM_G": "93048",
+                "CL_ADMIN": "DÃ©partementale",
+                "type_amgt": "Piste cyclable",
+                "amgt_covid": "Pistes d'urgence",
+                "ID": "2",
+                "NATURE": "Route Ã  1 chaussÃ©e",
+                "NOM_VOIE_G": "BD HENRI BARBUSSE"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.44218920000,
+                        48.86732774169
+                    ],
+                    [
+                        2.44220860000,
+                        48.86729724169
+                    ],
+                    [
+                        2.44260920000,
+                        48.86667414169
+                    ],
+                    [
+                        2.44336740000,
+                        48.86550224169
+                    ],
+                    [
+                        2.44347390000,
+                        48.86536334169
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
@@ -564,83 +600,66 @@
         {
             "type": "Feature",
             "properties": {
-                "CL_ADMIN": "Autre",
+                "LARGEUR": "5.5",
                 "INSEECOM_G": "93048",
+                "CL_ADMIN": "DÃ©partementale",
                 "type_amgt": "Piste cyclable",
                 "amgt_covid": "Pistes d'urgence",
-                "longueur": "570.6",
-                "NATURE": "Route Ã  1 chaussÃ©e",
+                "longueur": "483.5",
                 "ID": "2",
-                "LARGEUR": "4.0",
-                "NOM_VOIE_G": "R MARCEAU"
+                "NATURE": "Route Ã  1 chaussÃ©e",
+                "NOM_VOIE_G": "BD HENRI BARBUSSE"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.42634600000,
-                        48.84901424170
+                        2.43964670088,
+                        48.87139433564
                     ],
                     [
-                        2.42647080000,
-                        48.84906244170
+                        2.43966290000,
+                        48.87128294169
                     ],
                     [
-                        2.42649580000,
-                        48.84914354170
+                        2.43968520000,
+                        48.87123534169
                     ],
                     [
-                        2.42650060000,
-                        48.84920384170
+                        2.43992930000,
+                        48.87085074169
                     ],
                     [
-                        2.42647674007,
-                        48.84974327725
+                        2.44044240000,
+                        48.87004284169
                     ],
                     [
-                        2.42633710000,
-                        48.85068604170
+                        2.44083900000,
+                        48.86941694169
                     ],
                     [
-                        2.42629279318,
-                        48.85109525185
+                        2.44107340000,
+                        48.86904754169
                     ],
                     [
-                        2.42617530000,
-                        48.85226184170
+                        2.44135620000,
+                        48.86860364169
                     ],
                     [
-                        2.42608840000,
-                        48.85297734170
+                        2.44144950000,
+                        48.86841974169
                     ],
                     [
-                        2.42602710000,
-                        48.85347164170
+                        2.44155290000,
+                        48.86831764169
                     ],
                     [
-                        2.42597130000,
-                        48.85408294170
+                        2.44164020000,
+                        48.86817954169
                     ],
                     [
-                        2.42597124439,
-                        48.85408343113
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.38941905737,
-                        48.90119055285
-                    ],
-                    [
-                        2.39190548390,
-                        48.90350377364
+                        2.44215450000,
+                        48.86738154169
                     ]
                 ]
             }
