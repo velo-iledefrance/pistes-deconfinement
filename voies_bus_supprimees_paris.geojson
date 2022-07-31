@@ -1,0 +1,30 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Invalides carrefour Sèvres"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.31610625714,
+                        48.84766009548
+                    ],
+                    [
+                        2.31636643142,
+                        48.84720823719
+                    ],
+                    [
+                        2.31653004616,
+                        48.84682874368
+                    ]
+                ]
+            }
+        }
+    ]
+}
