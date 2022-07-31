@@ -29,6 +29,25 @@
         {
             "type": "Feature",
             "properties": {
+                "name": "Paris - Rennes"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32408042431,
+                        48.84407338455
+                    ],
+                    [
+                        2.32794280529,
+                        48.84811197616
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Paris - Orsay carrefour Alma"
             },
             "geometry": {
