@@ -6,22 +6,106 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Paris - Invalides carrefour Sèvres"
+                "name": "Paris - Conti"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.31610625714,
-                        48.84766009548
+                        2.34038829267,
+                        48.85616698042
                     ],
                     [
-                        2.31636643142,
-                        48.84720823719
+                        2.33974456251,
+                        48.85657287440
                     ],
                     [
-                        2.31653004616,
-                        48.84682874368
+                        2.33810305059,
+                        48.85748700617
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Orsay carrefour Alma"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.30300902247,
+                        48.86244208991
+                    ],
+                    [
+                        2.30205415606,
+                        48.86246326441
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Anatole-France"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32814668536,
+                        48.85993637704
+                    ],
+                    [
+                        2.32419847369,
+                        48.86114336988
+                    ],
+                    [
+                        2.31985329509,
+                        48.86244914808
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Grands-Augustins"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.34425067365,
+                        48.85380567105
+                    ],
+                    [
+                        2.34253942430,
+                        48.85463867182
+                    ],
+                    [
+                        2.34157919347,
+                        48.85528812044
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Malaquais"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.33531354785,
+                        48.85782583423
+                    ],
+                    [
+                        2.33332871318,
+                        48.85829171421
                     ]
                 ]
             }
