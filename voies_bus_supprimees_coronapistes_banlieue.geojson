@@ -5,6 +5,27 @@
     "features": [
         {
             "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32676267356,
+                        48.81083969905
+                    ],
+                    [
+                        2.32610820651,
+                        48.81302464525
+                    ],
+                    [
+                        2.32574879587,
+                        48.81692444509
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "name": "93 - D913 Puteaux sud-nord"
             },
@@ -138,6 +159,23 @@
                 "type": "LineString",
                 "coordinates": [
                     [
+                        2.32572733820,
+                        48.81756025384
+                    ],
+                    [
+                        2.32579171390,
+                        48.81971840939
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
                         2.13345046520,
                         48.80891612155
                     ],
@@ -183,6 +221,44 @@
                     [
                         2.31043400000,
                         48.89746300000
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32538401544,
+                        48.81750373783
+                    ],
+                    [
+                        2.32580779910,
+                        48.81295399384
+                    ],
+                    [
+                        2.32641935080,
+                        48.81081143726
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.32540547580,
+                        48.81966189582
+                    ],
+                    [
+                        2.32541620195,
+                        48.81890249026
                     ]
                 ]
             }
