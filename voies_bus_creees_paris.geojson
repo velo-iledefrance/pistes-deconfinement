@@ -1,0 +1,83 @@
+
+{
+    "type": "FeatureCollection",
+    "generator": "JOSM",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.40721820712,
+                        48.84739181041
+                    ],
+                    [
+                        2.41075872302,
+                        48.84706703594
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Saint-Bernard"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.35697505713,
+                        48.84934042005
+                    ],
+                    [
+                        2.35764024496,
+                        48.84910037890
+                    ],
+                    [
+                        2.36397025824,
+                        48.84482180535
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.35566614985,
+                        48.86525822028
+                    ],
+                    [
+                        2.35512970805,
+                        48.86427718032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Diderot"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.38179086566,
+                        48.84676344050
+                    ],
+                    [
+                        2.38499878764,
+                        48.84712351860
+                    ]
+                ]
+            }
+        }
+    ]
+}
