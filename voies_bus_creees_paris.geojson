@@ -5,6 +5,77 @@
     "features": [
         {
             "type": "Feature",
+            "properties": {
+                "name": "Paris - Catalogne"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.31855645642,
+                        48.83740755663
+                    ],
+                    [
+                        2.31848135456,
+                        48.83743492070
+                    ],
+                    [
+                        2.31841295823,
+                        48.83744992680
+                    ],
+                    [
+                        2.31834187970,
+                        48.83745963663
+                    ],
+                    [
+                        2.31828018889,
+                        48.83745875392
+                    ],
+                    [
+                        2.31819838151,
+                        48.83745345765
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Diderot"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.38179086566,
+                        48.84676344050
+                    ],
+                    [
+                        2.38499878764,
+                        48.84712351860
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.35566614985,
+                        48.86525822028
+                    ],
+                    [
+                        2.35512970805,
+                        48.86427718032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": null,
             "geometry": {
                 "type": "LineString",
@@ -39,42 +110,6 @@
                     [
                         2.36397025824,
                         48.84482180535
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.35566614985,
-                        48.86525822028
-                    ],
-                    [
-                        2.35512970805,
-                        48.86427718032
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Paris - Diderot"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.38179086566,
-                        48.84676344050
-                    ],
-                    [
-                        2.38499878764,
-                        48.84712351860
                     ]
                 ]
             }
