@@ -5,6 +5,46 @@
     "features": [
         {
             "type": "Feature",
+            "properties": null,
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.35566614985,
+                        48.86525822028
+                    ],
+                    [
+                        2.35512970805,
+                        48.86427718032
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Paris - Saint-Bernard"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.35697505713,
+                        48.84934042005
+                    ],
+                    [
+                        2.35764024496,
+                        48.84910037890
+                    ],
+                    [
+                        2.36397025824,
+                        48.84482180535
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
             "properties": {
                 "name": "Paris - Catalogne"
             },
@@ -41,6 +81,34 @@
         {
             "type": "Feature",
             "properties": {
+                "STATUT": "A venir",
+                "OBJECTID": "27"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.30424812140,
+                        48.84040936370
+                    ],
+                    [
+                        2.31237700020,
+                        48.84286400130
+                    ],
+                    [
+                        2.31770410120,
+                        48.84442254810
+                    ],
+                    [
+                        2.32020339430,
+                        48.84511344850
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
                 "name": "Paris - Diderot"
             },
             "geometry": {
@@ -53,63 +121,6 @@
                     [
                         2.38499878764,
                         48.84712351860
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.35566614985,
-                        48.86525822028
-                    ],
-                    [
-                        2.35512970805,
-                        48.86427718032
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": null,
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.40721820712,
-                        48.84739181041
-                    ],
-                    [
-                        2.41075872302,
-                        48.84706703594
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Paris - Saint-Bernard"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.35697505713,
-                        48.84934042005
-                    ],
-                    [
-                        2.35764024496,
-                        48.84910037890
-                    ],
-                    [
-                        2.36397025824,
-                        48.84482180535
                     ]
                 ]
             }
