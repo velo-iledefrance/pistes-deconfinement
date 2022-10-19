@@ -6,75 +6,18 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "93 - D40"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.44488713980,
-                        48.89190833359
-                    ],
-                    [
-                        2.44638900000,
-                        48.88833900000
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "94 - D86 avenue de Joinville S-N"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.46484275341,
-                        48.82718119977
-                    ],
-                    [
-                        2.47368331432,
-                        48.83497830053
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "94 - N34 E-O"
-            },
-            "geometry": {
-                "type": "LineString",
-                "coordinates": [
-                    [
-                        2.51110557672,
-                        48.85242508598
-                    ],
-                    [
-                        2.49608508466,
-                        48.84933285984
-                    ]
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "93 - N3"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.41335604889,
-                        48.89314082137
-                    ],
-                    [
                         2.42548940420,
                         48.89546342972
+                    ],
+                    [
+                        2.44231200000,
+                        48.89852500000
                     ]
                 ]
             }
@@ -94,6 +37,44 @@
                     [
                         2.51119140741,
                         48.85226977493
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - D86 avenue de Joinville N-S"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.47321124554,
+                        48.83517603731
+                    ],
+                    [
+                        2.46449943066,
+                        48.82740721976
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "94 - N34 E-O"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        2.51110557672,
+                        48.85242508598
+                    ],
+                    [
+                        2.49608508466,
+                        48.84933285984
                     ]
                 ]
             }
@@ -126,12 +107,12 @@
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.42548940420,
-                        48.89546342972
+                        2.41335604889,
+                        48.89314082137
                     ],
                     [
-                        2.44231200000,
-                        48.89852500000
+                        2.42548940420,
+                        48.89546342972
                     ]
                 ]
             }
@@ -139,18 +120,18 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "94 - D86 avenue de Joinville N-S"
+                "name": "94 - D86 avenue de Joinville S-N"
             },
             "geometry": {
                 "type": "LineString",
                 "coordinates": [
                     [
-                        2.47321124554,
-                        48.83517603731
+                        2.46484275341,
+                        48.82718119977
                     ],
                     [
-                        2.46449943066,
-                        48.82740721976
+                        2.47368331432,
+                        48.83497830053
                     ]
                 ]
             }
